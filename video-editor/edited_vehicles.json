@@ -1,0 +1,2632 @@
+[
+  {
+    "id": 1,
+    "vehicle_name": "Maruti Suzuki Swift",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_01_Maruti_Suzuki_Swift\\Maruti_Suzuki_Swift.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 1,
+    "vehicle_name": "Maruti Suzuki Swift",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_01_Maruti_Suzuki_Swift\\Maruti_Suzuki_Swift.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 2,
+    "vehicle_name": "Maruti Suzuki Dzire",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_02_Maruti_Suzuki_Dzire\\Maruti_Suzuki_Dzire.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 2,
+    "vehicle_name": "Maruti Suzuki Dzire",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_02_Maruti_Suzuki_Dzire\\Maruti_Suzuki_Dzire.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 3,
+    "vehicle_name": "Maruti Suzuki Wagon R",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_03_Maruti_Suzuki_Wagon_R\\Maruti_Suzuki_Wagon_R.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 3,
+    "vehicle_name": "Maruti Suzuki Wagon R",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_03_Maruti_Suzuki_Wagon_R\\Maruti_Suzuki_Wagon_R.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 4,
+    "vehicle_name": "Maruti Suzuki Baleno",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_04_Maruti_Suzuki_Baleno\\Maruti_Suzuki_Baleno.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 4,
+    "vehicle_name": "Maruti Suzuki Baleno",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_04_Maruti_Suzuki_Baleno\\Maruti_Suzuki_Baleno.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 5,
+    "vehicle_name": "Maruti Suzuki Brezza",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_05_Maruti_Suzuki_Brezza\\Maruti_Suzuki_Brezza.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 5,
+    "vehicle_name": "Maruti Suzuki Brezza",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_05_Maruti_Suzuki_Brezza\\Maruti_Suzuki_Brezza.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 6,
+    "vehicle_name": "Maruti Suzuki Fronx",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_06_Maruti_Suzuki_Fronx\\Maruti_Suzuki_Fronx.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 6,
+    "vehicle_name": "Maruti Suzuki Fronx",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_06_Maruti_Suzuki_Fronx\\Maruti_Suzuki_Fronx.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 7,
+    "vehicle_name": "Maruti Suzuki Grand Vitara",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_07_Maruti_Suzuki_Grand_Vitara\\Maruti_Suzuki_Grand_Vitara.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 7,
+    "vehicle_name": "Maruti Suzuki Grand Vitara",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_07_Maruti_Suzuki_Grand_Vitara\\Maruti_Suzuki_Grand_Vitara.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 8,
+    "vehicle_name": "Maruti Suzuki Ertiga",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_08_Maruti_Suzuki_Ertiga\\Maruti_Suzuki_Ertiga.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 8,
+    "vehicle_name": "Maruti Suzuki Ertiga",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_08_Maruti_Suzuki_Ertiga\\Maruti_Suzuki_Ertiga.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 9,
+    "vehicle_name": "Maruti Suzuki XL6",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_09_Maruti_Suzuki_XL6\\Maruti_Suzuki_XL6.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 9,
+    "vehicle_name": "Maruti Suzuki XL6",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_09_Maruti_Suzuki_XL6\\Maruti_Suzuki_XL6.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 10,
+    "vehicle_name": "Maruti Suzuki Alto K10",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_10_Maruti_Suzuki_Alto_K10\\Maruti_Suzuki_Alto_K10.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 10,
+    "vehicle_name": "Maruti Suzuki Alto K10",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_10_Maruti_Suzuki_Alto_K10\\Maruti_Suzuki_Alto_K10.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 11,
+    "vehicle_name": "Maruti Suzuki Celerio",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_11_Maruti_Suzuki_Celerio\\Maruti_Suzuki_Celerio.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 11,
+    "vehicle_name": "Maruti Suzuki Celerio",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_11_Maruti_Suzuki_Celerio\\Maruti_Suzuki_Celerio.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 12,
+    "vehicle_name": "Maruti Suzuki S-Presso",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_12_Maruti_Suzuki_S-Presso\\Maruti_Suzuki_S-Presso.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 12,
+    "vehicle_name": "Maruti Suzuki S-Presso",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_12_Maruti_Suzuki_S-Presso\\Maruti_Suzuki_S-Presso.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 13,
+    "vehicle_name": "Maruti Suzuki Ignis",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_13_Maruti_Suzuki_Ignis\\Maruti_Suzuki_Ignis.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 13,
+    "vehicle_name": "Maruti Suzuki Ignis",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_13_Maruti_Suzuki_Ignis\\Maruti_Suzuki_Ignis.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 14,
+    "vehicle_name": "Maruti Suzuki Jimny",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_14_Maruti_Suzuki_Jimny\\Maruti_Suzuki_Jimny.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 14,
+    "vehicle_name": "Maruti Suzuki Jimny",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_14_Maruti_Suzuki_Jimny\\Maruti_Suzuki_Jimny.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 15,
+    "vehicle_name": "Maruti Suzuki Ciaz",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_15_Maruti_Suzuki_Ciaz\\Maruti_Suzuki_Ciaz.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 15,
+    "vehicle_name": "Maruti Suzuki Ciaz",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_15_Maruti_Suzuki_Ciaz\\Maruti_Suzuki_Ciaz.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 16,
+    "vehicle_name": "Maruti Suzuki Eeco",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_16_Maruti_Suzuki_Eeco\\Maruti_Suzuki_Eeco.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 16,
+    "vehicle_name": "Maruti Suzuki Eeco",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_16_Maruti_Suzuki_Eeco\\Maruti_Suzuki_Eeco.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 17,
+    "vehicle_name": "Tata Punch",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_17_Tata_Punch\\Tata_Punch.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 17,
+    "vehicle_name": "Tata Punch",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_17_Tata_Punch\\Tata_Punch.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 18,
+    "vehicle_name": "Tata Nexon",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_18_Tata_Nexon\\Tata_Nexon.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 18,
+    "vehicle_name": "Tata Nexon",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_18_Tata_Nexon\\Tata_Nexon.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 19,
+    "vehicle_name": "Tata Nexon EV",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_19_Tata_Nexon_EV\\Tata_Nexon_EV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 19,
+    "vehicle_name": "Tata Nexon EV",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_19_Tata_Nexon_EV\\Tata_Nexon_EV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 20,
+    "vehicle_name": "Tata Tiago",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_20_Tata_Tiago\\Tata_Tiago.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 20,
+    "vehicle_name": "Tata Tiago",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_20_Tata_Tiago\\Tata_Tiago.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 21,
+    "vehicle_name": "Tata Tigor",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_21_Tata_Tigor\\Tata_Tigor.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 21,
+    "vehicle_name": "Tata Tigor",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_21_Tata_Tigor\\Tata_Tigor.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 22,
+    "vehicle_name": "Tata Altroz",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_22_Tata_Altroz\\Tata_Altroz.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 22,
+    "vehicle_name": "Tata Altroz",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_22_Tata_Altroz\\Tata_Altroz.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 23,
+    "vehicle_name": "Tata Harrier",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_23_Tata_Harrier\\Tata_Harrier.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 23,
+    "vehicle_name": "Tata Harrier",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_23_Tata_Harrier\\Tata_Harrier.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 24,
+    "vehicle_name": "Tata Safari",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_24_Tata_Safari\\Tata_Safari.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 24,
+    "vehicle_name": "Tata Safari",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_24_Tata_Safari\\Tata_Safari.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 25,
+    "vehicle_name": "Tata Curvv",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_25_Tata_Curvv\\Tata_Curvv.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 25,
+    "vehicle_name": "Tata Curvv",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_25_Tata_Curvv\\Tata_Curvv.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 26,
+    "vehicle_name": "Tata Curvv EV",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_26_Tata_Curvv_EV\\Tata_Curvv_EV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 26,
+    "vehicle_name": "Tata Curvv EV",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_26_Tata_Curvv_EV\\Tata_Curvv_EV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 27,
+    "vehicle_name": "Tata Tiago EV",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_27_Tata_Tiago_EV\\Tata_Tiago_EV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 27,
+    "vehicle_name": "Tata Tiago EV",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_27_Tata_Tiago_EV\\Tata_Tiago_EV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 28,
+    "vehicle_name": "Tata Tigor EV",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_28_Tata_Tigor_EV\\Tata_Tigor_EV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 28,
+    "vehicle_name": "Tata Tigor EV",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_28_Tata_Tigor_EV\\Tata_Tigor_EV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 29,
+    "vehicle_name": "Tata Punch EV",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_29_Tata_Punch_EV\\Tata_Punch_EV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 29,
+    "vehicle_name": "Tata Punch EV",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_29_Tata_Punch_EV\\Tata_Punch_EV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 30,
+    "vehicle_name": "Tata Altroz Racer",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_30_Tata_Altroz_Racer\\Tata_Altroz_Racer.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 30,
+    "vehicle_name": "Tata Altroz Racer",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_30_Tata_Altroz_Racer\\Tata_Altroz_Racer.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 31,
+    "vehicle_name": "Mahindra XUV300",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_31_Mahindra_XUV300\\Mahindra_XUV300.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 31,
+    "vehicle_name": "Mahindra XUV300",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_31_Mahindra_XUV300\\Mahindra_XUV300.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 32,
+    "vehicle_name": "Mahindra XUV500",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_32_Mahindra_XUV500\\Mahindra_XUV500.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 32,
+    "vehicle_name": "Mahindra XUV500",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_32_Mahindra_XUV500\\Mahindra_XUV500.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 33,
+    "vehicle_name": "Mahindra XUV700",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_33_Mahindra_XUV700\\Mahindra_XUV700.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 33,
+    "vehicle_name": "Mahindra XUV700",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_33_Mahindra_XUV700\\Mahindra_XUV700.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 34,
+    "vehicle_name": "Mahindra Marazzo",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_34_Mahindra_Marazzo\\Mahindra_Marazzo.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 34,
+    "vehicle_name": "Mahindra Marazzo",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_34_Mahindra_Marazzo\\Mahindra_Marazzo.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 35,
+    "vehicle_name": "Mahindra Bolero",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_35_Mahindra_Bolero\\Mahindra_Bolero.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 35,
+    "vehicle_name": "Mahindra Bolero",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_35_Mahindra_Bolero\\Mahindra_Bolero.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 36,
+    "vehicle_name": "Renault Kwid",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_36_Renault_Kwid\\Renault_Kwid.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 36,
+    "vehicle_name": "Renault Kwid",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_36_Renault_Kwid\\Renault_Kwid.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 37,
+    "vehicle_name": "Renault Triber",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_37_Renault_Triber\\Renault_Triber.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 37,
+    "vehicle_name": "Renault Triber",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_37_Renault_Triber\\Renault_Triber.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 38,
+    "vehicle_name": "Renault Kiger",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_38_Renault_Kiger\\Renault_Kiger.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 38,
+    "vehicle_name": "Renault Kiger",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_38_Renault_Kiger\\Renault_Kiger.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 39,
+    "vehicle_name": "Renault Duster",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_39_Renault_Duster\\Renault_Duster.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 39,
+    "vehicle_name": "Renault Duster",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_39_Renault_Duster\\Renault_Duster.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 40,
+    "vehicle_name": "Renault Arkana",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_40_Renault_Arkana\\Renault_Arkana.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 40,
+    "vehicle_name": "Renault Arkana",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_40_Renault_Arkana\\Renault_Arkana.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 41,
+    "vehicle_name": "Nissan Magnite",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_41_Nissan_Magnite\\Nissan_Magnite.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 41,
+    "vehicle_name": "Nissan Magnite",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_41_Nissan_Magnite\\Nissan_Magnite.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 42,
+    "vehicle_name": "Nissan Kicks",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_42_Nissan_Kicks\\Nissan_Kicks.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 42,
+    "vehicle_name": "Nissan Kicks",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_42_Nissan_Kicks\\Nissan_Kicks.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 43,
+    "vehicle_name": "Nissan X-Trail",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_43_Nissan_X-Trail\\Nissan_X-Trail.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 43,
+    "vehicle_name": "Nissan X-Trail",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_43_Nissan_X-Trail\\Nissan_X-Trail.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 44,
+    "vehicle_name": "Nissan Sunny",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_44_Nissan_Sunny\\Nissan_Sunny.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 44,
+    "vehicle_name": "Nissan Sunny",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_44_Nissan_Sunny\\Nissan_Sunny.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 45,
+    "vehicle_name": "Nissan Terrano",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_45_Nissan_Terrano\\Nissan_Terrano.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 45,
+    "vehicle_name": "Nissan Terrano",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_45_Nissan_Terrano\\Nissan_Terrano.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 46,
+    "vehicle_name": "Toyota Innova Crysta",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_46_Toyota_Innova_Crysta\\Toyota_Innova_Crysta.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 46,
+    "vehicle_name": "Toyota Innova Crysta",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_46_Toyota_Innova_Crysta\\Toyota_Innova_Crysta.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 47,
+    "vehicle_name": "Toyota Innova HyCross",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_47_Toyota_Innova_HyCross\\Toyota_Innova_HyCross.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 47,
+    "vehicle_name": "Toyota Innova HyCross",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_47_Toyota_Innova_HyCross\\Toyota_Innova_HyCross.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 48,
+    "vehicle_name": "Toyota Fortuner",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_48_Toyota_Fortuner\\Toyota_Fortuner.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 48,
+    "vehicle_name": "Toyota Fortuner",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_48_Toyota_Fortuner\\Toyota_Fortuner.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 49,
+    "vehicle_name": "Toyota Urban Cruiser Hyryder",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_49_Toyota_Urban_Cruiser_Hyryder\\Toyota_Urban_Cruiser_Hyryder.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 49,
+    "vehicle_name": "Toyota Urban Cruiser Hyryder",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_49_Toyota_Urban_Cruiser_Hyryder\\Toyota_Urban_Cruiser_Hyryder.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 50,
+    "vehicle_name": "Toyota Glanza",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_50_Toyota_Glanza\\Toyota_Glanza.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 50,
+    "vehicle_name": "Toyota Glanza",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_50_Toyota_Glanza\\Toyota_Glanza.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 51,
+    "vehicle_name": "Toyota Camry",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_51_Toyota_Camry\\Toyota_Camry.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 51,
+    "vehicle_name": "Toyota Camry",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_51_Toyota_Camry\\Toyota_Camry.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 52,
+    "vehicle_name": "Toyota Vellfire",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_52_Toyota_Vellfire\\Toyota_Vellfire.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 52,
+    "vehicle_name": "Toyota Vellfire",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_52_Toyota_Vellfire\\Toyota_Vellfire.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 53,
+    "vehicle_name": "Toyota Hilux",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_53_Toyota_Hilux\\Toyota_Hilux.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 53,
+    "vehicle_name": "Toyota Hilux",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_53_Toyota_Hilux\\Toyota_Hilux.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 54,
+    "vehicle_name": "Toyota Land Cruiser",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_54_Toyota_Land_Cruiser\\Toyota_Land_Cruiser.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 54,
+    "vehicle_name": "Toyota Land Cruiser",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_54_Toyota_Land_Cruiser\\Toyota_Land_Cruiser.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 55,
+    "vehicle_name": "Toyota Land Cruiser Prado",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_55_Toyota_Land_Cruiser_Prado\\Toyota_Land_Cruiser_Prado.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 55,
+    "vehicle_name": "Toyota Land Cruiser Prado",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_55_Toyota_Land_Cruiser_Prado\\Toyota_Land_Cruiser_Prado.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 56,
+    "vehicle_name": "Kia Sonet",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_56_Kia_Sonet\\Kia_Sonet.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 56,
+    "vehicle_name": "Kia Sonet",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_56_Kia_Sonet\\Kia_Sonet.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 57,
+    "vehicle_name": "Kia Seltos",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_57_Kia_Seltos\\Kia_Seltos.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 57,
+    "vehicle_name": "Kia Seltos",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_57_Kia_Seltos\\Kia_Seltos.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 58,
+    "vehicle_name": "Kia Carens",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_58_Kia_Carens\\Kia_Carens.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 58,
+    "vehicle_name": "Kia Carens",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_58_Kia_Carens\\Kia_Carens.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 59,
+    "vehicle_name": "Kia Carnival",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_59_Kia_Carnival\\Kia_Carnival.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 59,
+    "vehicle_name": "Kia Carnival",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_59_Kia_Carnival\\Kia_Carnival.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 60,
+    "vehicle_name": "Kia EV6",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_60_Kia_EV6\\Kia_EV6.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 60,
+    "vehicle_name": "Kia EV6",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_60_Kia_EV6\\Kia_EV6.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 61,
+    "vehicle_name": "Hyundai Creta",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_61_Hyundai_Creta\\Hyundai_Creta.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 61,
+    "vehicle_name": "Hyundai Creta",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_61_Hyundai_Creta\\Hyundai_Creta.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 62,
+    "vehicle_name": "Hyundai Venue",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_62_Hyundai_Venue\\Hyundai_Venue.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 62,
+    "vehicle_name": "Hyundai Venue",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_62_Hyundai_Venue\\Hyundai_Venue.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 63,
+    "vehicle_name": "Hyundai Verna",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_63_Hyundai_Verna\\Hyundai_Verna.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 63,
+    "vehicle_name": "Hyundai Verna",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_63_Hyundai_Verna\\Hyundai_Verna.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 64,
+    "vehicle_name": "Hyundai i20",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_64_Hyundai_i20\\Hyundai_i20.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 64,
+    "vehicle_name": "Hyundai i20",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_64_Hyundai_i20\\Hyundai_i20.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 65,
+    "vehicle_name": "Hyundai i20 N Line",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_65_Hyundai_i20_N_Line\\Hyundai_i20_N_Line.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 65,
+    "vehicle_name": "Hyundai i20 N Line",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_65_Hyundai_i20_N_Line\\Hyundai_i20_N_Line.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 66,
+    "vehicle_name": "Hyundai Exter",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_66_Hyundai_Exter\\Hyundai_Exter.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 66,
+    "vehicle_name": "Hyundai Exter",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_66_Hyundai_Exter\\Hyundai_Exter.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 67,
+    "vehicle_name": "Hyundai Alcazar",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_67_Hyundai_Alcazar\\Hyundai_Alcazar.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 67,
+    "vehicle_name": "Hyundai Alcazar",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_67_Hyundai_Alcazar\\Hyundai_Alcazar.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 68,
+    "vehicle_name": "Hyundai Tucson",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_68_Hyundai_Tucson\\Hyundai_Tucson.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 68,
+    "vehicle_name": "Hyundai Tucson",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_68_Hyundai_Tucson\\Hyundai_Tucson.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 69,
+    "vehicle_name": "Hyundai Ioniq 5",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_69_Hyundai_Ioniq_5\\Hyundai_Ioniq_5.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 69,
+    "vehicle_name": "Hyundai Ioniq 5",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_69_Hyundai_Ioniq_5\\Hyundai_Ioniq_5.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 70,
+    "vehicle_name": "Hyundai Creta N Line",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_70_Hyundai_Creta_N_Line\\Hyundai_Creta_N_Line.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 70,
+    "vehicle_name": "Hyundai Creta N Line",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_70_Hyundai_Creta_N_Line\\Hyundai_Creta_N_Line.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 71,
+    "vehicle_name": "Mahindra Thar",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_71_Mahindra_Thar\\Mahindra_Thar.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 71,
+    "vehicle_name": "Mahindra Thar",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_71_Mahindra_Thar\\Mahindra_Thar.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 72,
+    "vehicle_name": "Mahindra Thar Roxx",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_72_Mahindra_Thar_Roxx\\Mahindra_Thar_Roxx.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 72,
+    "vehicle_name": "Mahindra Thar Roxx",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_72_Mahindra_Thar_Roxx\\Mahindra_Thar_Roxx.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 73,
+    "vehicle_name": "Mahindra Scorpio",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_73_Mahindra_Scorpio\\Mahindra_Scorpio.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 73,
+    "vehicle_name": "Mahindra Scorpio",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_73_Mahindra_Scorpio\\Mahindra_Scorpio.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 74,
+    "vehicle_name": "Mahindra Scorpio N",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_74_Mahindra_Scorpio_N\\Mahindra_Scorpio_N.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 74,
+    "vehicle_name": "Mahindra Scorpio N",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_74_Mahindra_Scorpio_N\\Mahindra_Scorpio_N.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 75,
+    "vehicle_name": "Mahindra XUV 3XO",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_75_Mahindra_XUV_3XO\\Mahindra_XUV_3XO.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 75,
+    "vehicle_name": "Mahindra XUV 3XO",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_75_Mahindra_XUV_3XO\\Mahindra_XUV_3XO.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 76,
+    "vehicle_name": "Mahindra XUV400",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_76_Mahindra_XUV400\\Mahindra_XUV400.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 76,
+    "vehicle_name": "Mahindra XUV400",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_76_Mahindra_XUV400\\Mahindra_XUV400.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 77,
+    "vehicle_name": "Mahindra Bolero Neo",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_77_Mahindra_Bolero_Neo\\Mahindra_Bolero_Neo.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 77,
+    "vehicle_name": "Mahindra Bolero Neo",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_77_Mahindra_Bolero_Neo\\Mahindra_Bolero_Neo.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 78,
+    "vehicle_name": "Honda City",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_78_Honda_City\\Honda_City.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 78,
+    "vehicle_name": "Honda City",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_78_Honda_City\\Honda_City.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 79,
+    "vehicle_name": "Honda Amaze",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_79_Honda_Amaze\\Honda_Amaze.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 79,
+    "vehicle_name": "Honda Amaze",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_79_Honda_Amaze\\Honda_Amaze.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 80,
+    "vehicle_name": "Honda Elevate",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_80_Honda_Elevate\\Honda_Elevate.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 80,
+    "vehicle_name": "Honda Elevate",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_80_Honda_Elevate\\Honda_Elevate.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:12"
+  },
+  {
+    "id": 81,
+    "vehicle_name": "Honda WR-V",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_81_Honda_WR-V\\Honda_WR-V.mp4",
+    "source_video_path": "youtube-automation\\output\\100_popular_cars_in_India_81_Honda_WR-V\\video.mp4",
+    "edited_date": "2026-09-16 17:35:52"
+  },
+  {
+    "id": 81,
+    "vehicle_name": "Honda WR-V",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_81_Honda_WR-V\\Honda_WR-V.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:12"
+  },
+  {
+    "id": 82,
+    "vehicle_name": "Honda Jazz",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_82_Honda_Jazz\\Honda_Jazz.mp4",
+    "source_video_path": "youtube-automation\\output\\100_popular_cars_in_India_82_Honda_Jazz\\video.mp4",
+    "edited_date": "2026-09-16 22:47:19"
+  },
+  {
+    "id": 83,
+    "vehicle_name": "Honda Brio",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_83_Honda_Brio\\Honda_Brio.mp4",
+    "source_video_path": "youtube-automation\\output\\100_popular_cars_in_India_83_Honda_Brio\\video.mp4",
+    "edited_date": "2026-09-16 22:47:26"
+  },
+  {
+    "id": 84,
+    "vehicle_name": "Honda Civic",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_84_Honda_Civic\\Honda_Civic.mp4",
+    "source_video_path": "youtube-automation\\output\\100_popular_cars_in_India_84_Honda_Civic\\video.mp4",
+    "edited_date": "2026-09-16 22:47:35"
+  },
+  {
+    "id": 85,
+    "vehicle_name": "Honda CR-V",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_85_Honda_CR-V\\Honda_CR-V.mp4",
+    "source_video_path": "youtube-automation\\output\\100_popular_cars_in_India_85_Honda_CR-V\\video.mp4",
+    "edited_date": "2026-09-16 22:47:43"
+  },
+  {
+    "id": 86,
+    "vehicle_name": "Honda Accord",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_86_Honda_Accord\\Honda_Accord.mp4",
+    "source_video_path": "youtube-automation\\output\\100_popular_cars_in_India_86_Honda_Accord\\video.mp4",
+    "edited_date": "2026-09-16 22:47:51"
+  },
+  {
+    "id": 87,
+    "vehicle_name": "Volkswagen Virtus",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_87_Volkswagen_Virtus\\Volkswagen_Virtus.mp4",
+    "source_video_path": "youtube-automation\\output\\100_popular_cars_in_India_87_Volkswagen_Virtus\\video.mp4",
+    "edited_date": "2026-09-16 22:47:59"
+  },
+  {
+    "id": 88,
+    "vehicle_name": "Volkswagen Taigun",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_88_Volkswagen_Taigun\\Volkswagen_Taigun.mp4",
+    "source_video_path": "youtube-automation\\output\\100_popular_cars_in_India_88_Volkswagen_Taigun\\video.mp4",
+    "edited_date": "2026-09-16 22:48:07"
+  },
+  {
+    "id": 89,
+    "vehicle_name": "Volkswagen Polo",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_89_Volkswagen_Polo\\Volkswagen_Polo.mp4",
+    "source_video_path": "youtube-automation\\output\\100_popular_cars_in_India_89_Volkswagen_Polo\\video.mp4",
+    "edited_date": "2026-09-16 22:48:16"
+  },
+  {
+    "id": 90,
+    "vehicle_name": "Volkswagen Vento",
+    "type": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\100_popular_cars_in_India_90_Volkswagen_Vento\\Volkswagen_Vento.mp4",
+    "source_video_path": "youtube-automation\\output\\100_popular_cars_in_India_90_Volkswagen_Vento\\video.mp4",
+    "edited_date": "2026-09-16 22:48:25"
+  },
+  {
+    "id": 1,
+    "vehicle_name": "Hero Splendor Plus",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_01_Hero_Splendor_Plus\\Hero_Splendor_Plus.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 1,
+    "vehicle_name": "Hero Splendor Plus",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_01_Hero_Splendor_Plus\\Hero_Splendor_Plus.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 2,
+    "vehicle_name": "Yamaha RX100",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_02_Yamaha_RX100\\Yamaha_RX100.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 2,
+    "vehicle_name": "Yamaha RX100",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_02_Yamaha_RX100\\Yamaha_RX100.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 4,
+    "vehicle_name": "Kawasaki Ninja H2R",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_04_Kawasaki_Ninja_H2R\\Kawasaki_Ninja_H2R.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 4,
+    "vehicle_name": "Kawasaki Ninja H2R",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_04_Kawasaki_Ninja_H2R\\Kawasaki_Ninja_H2R.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 5,
+    "vehicle_name": "Porsche 911 GT3 RS",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_05_Porsche_911_GT3_RS\\Porsche_911_GT3_RS.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 5,
+    "vehicle_name": "Porsche 911 GT3 RS",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_05_Porsche_911_GT3_RS\\Porsche_911_GT3_RS.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 6,
+    "vehicle_name": "Ford Mustang 1969 Boss 429",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_06_Ford_Mustang_1969_Boss_429\\Ford_Mustang_1969_Boss_429.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 6,
+    "vehicle_name": "Ford Mustang 1969 Boss 429",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_06_Ford_Mustang_1969_Boss_429\\Ford_Mustang_1969_Boss_429.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 7,
+    "vehicle_name": "Nissan Skyline GT-R R34 V-Spec II",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_07_Nissan_Skyline_GT-R_R34_V-Spec_II\\Nissan_Skyline_GT-R_R34_V-Spec_II.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 7,
+    "vehicle_name": "Nissan Skyline GT-R R34 V-Spec II",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_07_Nissan_Skyline_GT-R_R34_V-Spec_II\\Nissan_Skyline_GT-R_R34_V-Spec_II.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 8,
+    "vehicle_name": "Lamborghini Aventador SVJ",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_08_Lamborghini_Aventador_SVJ\\Lamborghini_Aventador_SVJ.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 8,
+    "vehicle_name": "Lamborghini Aventador SVJ",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_08_Lamborghini_Aventador_SVJ\\Lamborghini_Aventador_SVJ.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 9,
+    "vehicle_name": "Ducati Panigale V4 S",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_09_Ducati_Panigale_V4_S\\Ducati_Panigale_V4_S.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 9,
+    "vehicle_name": "Ducati Panigale V4 S",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_09_Ducati_Panigale_V4_S\\Ducati_Panigale_V4_S.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 10,
+    "vehicle_name": "Rolls Royce Phantom VIII",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_10_Rolls_Royce_Phantom_VIII\\Rolls_Royce_Phantom_VIII.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 10,
+    "vehicle_name": "Rolls Royce Phantom VIII",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_10_Rolls_Royce_Phantom_VIII\\Rolls_Royce_Phantom_VIII.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 11,
+    "vehicle_name": "BMW S1000RR M Package",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_11_BMW_S1000RR_M_Package\\BMW_S1000RR_M_Package.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 11,
+    "vehicle_name": "BMW S1000RR M Package",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_11_BMW_S1000RR_M_Package\\BMW_S1000RR_M_Package.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 12,
+    "vehicle_name": "Toyota Supra MK4 Turbo (A80)",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_12_Toyota_Supra_MK4_Turbo_(A80)\\Toyota_Supra_MK4_Turbo_(A80).mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 12,
+    "vehicle_name": "Toyota Supra MK4 Turbo (A80)",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_12_Toyota_Supra_MK4_Turbo_(A80)\\Toyota_Supra_MK4_Turbo_(A80).mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 13,
+    "vehicle_name": "Suzuki Hayabusa GSX1300R",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_13_Suzuki_Hayabusa_GSX1300R\\Suzuki_Hayabusa_GSX1300R.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 13,
+    "vehicle_name": "Suzuki Hayabusa GSX1300R",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_13_Suzuki_Hayabusa_GSX1300R\\Suzuki_Hayabusa_GSX1300R.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 14,
+    "vehicle_name": "Ferrari F40",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_14_Ferrari_F40\\Ferrari_F40.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 14,
+    "vehicle_name": "Ferrari F40",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_14_Ferrari_F40\\Ferrari_F40.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 15,
+    "vehicle_name": "Harley-Davidson Fat Boy 114",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_15_Harley-Davidson_Fat_Boy_114\\Harley-Davidson_Fat_Boy_114.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 15,
+    "vehicle_name": "Harley-Davidson Fat Boy 114",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_15_Harley-Davidson_Fat_Boy_114\\Harley-Davidson_Fat_Boy_114.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 16,
+    "vehicle_name": "McLaren P1",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_16_McLaren_P1\\McLaren_P1.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 16,
+    "vehicle_name": "McLaren P1",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_16_McLaren_P1\\McLaren_P1.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 17,
+    "vehicle_name": "KTM 390 Duke",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_17_KTM_390_Duke\\KTM_390_Duke.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 17,
+    "vehicle_name": "KTM 390 Duke",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_17_KTM_390_Duke\\KTM_390_Duke.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 18,
+    "vehicle_name": "Dodge Challenger SRT Demon 170",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_18_Dodge_Challenger_SRT_Demon_170\\Dodge_Challenger_SRT_Demon_170.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 18,
+    "vehicle_name": "Dodge Challenger SRT Demon 170",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_18_Dodge_Challenger_SRT_Demon_170\\Dodge_Challenger_SRT_Demon_170.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 19,
+    "vehicle_name": "Yamaha YZF-R1M",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_19_Yamaha_YZF-R1M\\Yamaha_YZF-R1M.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 19,
+    "vehicle_name": "Yamaha YZF-R1M",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_19_Yamaha_YZF-R1M\\Yamaha_YZF-R1M.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 20,
+    "vehicle_name": "Mercedes-AMG G63 Brabus 800",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_20_Mercedes-AMG_G63_Brabus_800\\Mercedes-AMG_G63_Brabus_800.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 20,
+    "vehicle_name": "Mercedes-AMG G63 Brabus 800",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_20_Mercedes-AMG_G63_Brabus_800\\Mercedes-AMG_G63_Brabus_800.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 21,
+    "vehicle_name": "Bugatti Chiron Super Sport 300+",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_21_Bugatti_Chiron_Super_Sport_300+\\Bugatti_Chiron_Super_Sport_300+.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 21,
+    "vehicle_name": "Bugatti Chiron Super Sport 300+",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_21_Bugatti_Chiron_Super_Sport_300+\\Bugatti_Chiron_Super_Sport_300+.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 22,
+    "vehicle_name": "Kawasaki Ninja ZX-10R",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_22_Kawasaki_Ninja_ZX-10R\\Kawasaki_Ninja_ZX-10R.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 22,
+    "vehicle_name": "Kawasaki Ninja ZX-10R",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_22_Kawasaki_Ninja_ZX-10R\\Kawasaki_Ninja_ZX-10R.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 26,
+    "vehicle_name": "Triumph Rocket 3 R",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_26_Triumph_Rocket_3_R\\Triumph_Rocket_3_R.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 26,
+    "vehicle_name": "Triumph Rocket 3 R",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_26_Triumph_Rocket_3_R\\Triumph_Rocket_3_R.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 27,
+    "vehicle_name": "Lamborghini Huracan STO",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_27_Lamborghini_Huracan_STO\\Lamborghini_Huracan_STO.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 27,
+    "vehicle_name": "Lamborghini Huracan STO",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_27_Lamborghini_Huracan_STO\\Lamborghini_Huracan_STO.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 28,
+    "vehicle_name": "MV Agusta Superveloce 800",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_28_MV_Agusta_Superveloce_800\\MV_Agusta_Superveloce_800.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 28,
+    "vehicle_name": "MV Agusta Superveloce 800",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_28_MV_Agusta_Superveloce_800\\MV_Agusta_Superveloce_800.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 29,
+    "vehicle_name": "Pagani Huayra BC",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_29_Pagani_Huayra_BC\\Pagani_Huayra_BC.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 29,
+    "vehicle_name": "Pagani Huayra BC",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_29_Pagani_Huayra_BC\\Pagani_Huayra_BC.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 30,
+    "vehicle_name": "Aprilia RSV4 Factory 1100",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_30_Aprilia_RSV4_Factory_1100\\Aprilia_RSV4_Factory_1100.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 30,
+    "vehicle_name": "Aprilia RSV4 Factory 1100",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_30_Aprilia_RSV4_Factory_1100\\Aprilia_RSV4_Factory_1100.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 31,
+    "vehicle_name": "Chevrolet Corvette Z06 (C8)",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_31_Chevrolet_Corvette_Z06_(C8)\\Chevrolet_Corvette_Z06_(C8).mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 31,
+    "vehicle_name": "Chevrolet Corvette Z06 (C8)",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_31_Chevrolet_Corvette_Z06_(C8)\\Chevrolet_Corvette_Z06_(C8).mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 32,
+    "vehicle_name": "Honda CBR1000RR-R Fireblade SP",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_32_Honda_CBR1000RR-R_Fireblade_SP\\Honda_CBR1000RR-R_Fireblade_SP.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 32,
+    "vehicle_name": "Honda CBR1000RR-R Fireblade SP",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_32_Honda_CBR1000RR-R_Fireblade_SP\\Honda_CBR1000RR-R_Fireblade_SP.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 33,
+    "vehicle_name": "Nissan GT-R Nismo (R35)",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_33_Nissan_GT-R_Nismo_(R35)\\Nissan_GT-R_Nismo_(R35).mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 33,
+    "vehicle_name": "Nissan GT-R Nismo (R35)",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_33_Nissan_GT-R_Nismo_(R35)\\Nissan_GT-R_Nismo_(R35).mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 34,
+    "vehicle_name": "BMW M1000RR",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_34_BMW_M1000RR\\BMW_M1000RR.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 34,
+    "vehicle_name": "BMW M1000RR",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_34_BMW_M1000RR\\BMW_M1000RR.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 35,
+    "vehicle_name": "Ferrari LaFerrari",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_35_Ferrari_LaFerrari\\Ferrari_LaFerrari.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 35,
+    "vehicle_name": "Ferrari LaFerrari",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_35_Ferrari_LaFerrari\\Ferrari_LaFerrari.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 36,
+    "vehicle_name": "KTM 1290 Super Duke R Evo",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_36_KTM_1290_Super_Duke_R_Evo\\KTM_1290_Super_Duke_R_Evo.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 36,
+    "vehicle_name": "KTM 1290 Super Duke R Evo",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_36_KTM_1290_Super_Duke_R_Evo\\KTM_1290_Super_Duke_R_Evo.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 37,
+    "vehicle_name": "Porsche 918 Spyder",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_37_Porsche_918_Spyder\\Porsche_918_Spyder.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 37,
+    "vehicle_name": "Porsche 918 Spyder",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_37_Porsche_918_Spyder\\Porsche_918_Spyder.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 38,
+    "vehicle_name": "Harley-Davidson Sportster S",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_38_Harley-Davidson_Sportster_S\\Harley-Davidson_Sportster_S.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 38,
+    "vehicle_name": "Harley-Davidson Sportster S",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_38_Harley-Davidson_Sportster_S\\Harley-Davidson_Sportster_S.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 39,
+    "vehicle_name": "Shelby Cobra 427 S/C",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_39_Shelby_Cobra_427_S_C\\Shelby_Cobra_427_S_C.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 39,
+    "vehicle_name": "Shelby Cobra 427 S/C",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_39_Shelby_Cobra_427_S_C\\Shelby_Cobra_427_S_C.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 40,
+    "vehicle_name": "Ducati Diavel V4",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_40_Ducati_Diavel_V4\\Ducati_Diavel_V4.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 40,
+    "vehicle_name": "Ducati Diavel V4",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_40_Ducati_Diavel_V4\\Ducati_Diavel_V4.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 41,
+    "vehicle_name": "Audi R8 V10 Performance",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_41_Audi_R8_V10_Performance\\Audi_R8_V10_Performance.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 41,
+    "vehicle_name": "Audi R8 V10 Performance",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_41_Audi_R8_V10_Performance\\Audi_R8_V10_Performance.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 42,
+    "vehicle_name": "Yamaha MT-10 SP",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_42_Yamaha_MT-10_SP\\Yamaha_MT-10_SP.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 42,
+    "vehicle_name": "Yamaha MT-10 SP",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_42_Yamaha_MT-10_SP\\Yamaha_MT-10_SP.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 43,
+    "vehicle_name": "Mazda RX-7 Spirit R (FD3S)",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_43_Mazda_RX-7_Spirit_R_(FD3S)\\Mazda_RX-7_Spirit_R_(FD3S).mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 43,
+    "vehicle_name": "Mazda RX-7 Spirit R (FD3S)",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_43_Mazda_RX-7_Spirit_R_(FD3S)\\Mazda_RX-7_Spirit_R_(FD3S).mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 44,
+    "vehicle_name": "Kawasaki Z H2 Supercharged",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_44_Kawasaki_Z_H2_Supercharged\\Kawasaki_Z_H2_Supercharged.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 44,
+    "vehicle_name": "Kawasaki Z H2 Supercharged",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_44_Kawasaki_Z_H2_Supercharged\\Kawasaki_Z_H2_Supercharged.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 45,
+    "vehicle_name": "Lexus LFA Nurburgring Edition",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_45_Lexus_LFA_Nurburgring_Edition\\Lexus_LFA_Nurburgring_Edition.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 45,
+    "vehicle_name": "Lexus LFA Nurburgring Edition",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_45_Lexus_LFA_Nurburgring_Edition\\Lexus_LFA_Nurburgring_Edition.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 46,
+    "vehicle_name": "Suzuki Katana",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_46_Suzuki_Katana\\Suzuki_Katana.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 46,
+    "vehicle_name": "Suzuki Katana",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_46_Suzuki_Katana\\Suzuki_Katana.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 47,
+    "vehicle_name": "McLaren 720S Spider",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_47_McLaren_720S_Spider\\McLaren_720S_Spider.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 47,
+    "vehicle_name": "McLaren 720S Spider",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_47_McLaren_720S_Spider\\McLaren_720S_Spider.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 48,
+    "vehicle_name": "Honda CB1000R Black Edition",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_48_Honda_CB1000R_Black_Edition\\Honda_CB1000R_Black_Edition.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 48,
+    "vehicle_name": "Honda CB1000R Black Edition",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_48_Honda_CB1000R_Black_Edition\\Honda_CB1000R_Black_Edition.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 49,
+    "vehicle_name": "Lamborghini Murcielago LP670-4 SV",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_49_Lamborghini_Murcielago_LP670-4_SV\\Lamborghini_Murcielago_LP670-4_SV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 49,
+    "vehicle_name": "Lamborghini Murcielago LP670-4 SV",
+    "type": "car",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_49_Lamborghini_Murcielago_LP670-4_SV\\Lamborghini_Murcielago_LP670-4_SV.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  },
+  {
+    "id": 50,
+    "vehicle_name": "Indian Scout Bobber",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_50_Indian_Scout_Bobber\\Indian_Scout_Bobber.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 17:35:41"
+  },
+  {
+    "id": 50,
+    "vehicle_name": "Indian Scout Bobber",
+    "type": "motorcycle",
+    "source_excel": "master_vehicles_tracker",
+    "edit_status": "EDITED",
+    "edited_video_path": "output\\master_vehicles_tracker_50_Indian_Scout_Bobber\\Indian_Scout_Bobber.mp4",
+    "source_video_path": "-",
+    "edited_date": "2026-09-16 22:47:11"
+  }
+]

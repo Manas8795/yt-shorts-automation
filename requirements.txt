@@ -1,0 +1,12 @@
+# YouTube Shorts Automation Suite Requirements
+playwright>=1.40.0
+ffmpeg-python>=0.2.0
+opencv-python>=4.8.0
+moviepy>=1.0.3
+openpyxl>=3.1.2
+pillow>=10.0.0
+pydantic>=2.5.0
+rich>=13.7.0
+requests>=2.31.0
+numpy>=1.24.0
+pytest>=7.4.0

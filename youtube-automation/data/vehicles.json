@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "vehicle_name": "Hero Splendor Plus",
+    "type": "motorcycle",
+    "color_scheme": "Classic Black with Silver Stripes",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-04",
+    "output_video_path": "output/2026-09-04/job_0001/video.mp4"
+  },
+  {
+    "id": 2,
+    "vehicle_name": "Yamaha RX100",
+    "type": "motorcycle",
+    "color_scheme": "Glossy Cherry Red with Gold Pinstripes",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-04 23:45:49",
+    "output_video_path": "output/2026-09-04/job_0002_Yamaha_RX100/video.mp4",
+    "error_message": "Google Flow reported generation error: arrow_back\nmore_vert\nsearch\nfilter_list\nadd\nhelp\nsettings_2\nmore_vert\ndashboard\nAll media\nvideocam\nVideos\naccessibility_new\nCharacters\nmovie\nScenes\napps_spark_2\nTools\ndelete\nBin\nleft_panel_close\nCollapse\nwarning\nFailed\nSorry, this video failed to generate.\nYou have not been charged for this generation.\nrefresh\nundo\ndelete_forever\nmenu\nUntitled session\nedit_square\nclose\nCreate a photorealistic 10-second vertical cinematic ASMR video of a 1:12 scale miniature Yamaha RX100 (Glossy Cherry Red with Gold Pinstripes) being carefully unboxed on a polished dark walnut tabletop.\n\nSTYLE CONSISTENCY:\n* Hyper-realistic macro-lens ASMR product photography of a 1:12 scale miniature Yamaha RX100\n* Authentic Yamaha RX100 design, proportions, body geometry, chrome accents, badging, and realistic tires\n* Glossy Cherry Red with Gold Pinstripes color scheme with realistic paint gloss and metallic engine components\n* Polished dark walnut wooden tabletop with subtle reflections and cinematic chiaroscuro studio lighting\n* Deep black studio background with sharp focus and shallow depth of field\n* Realistic human hands performing tactile unboxing actions (lifting matte crate, peeling protective transparent film, tweezers extracting foam blocks, unwrapping mirror sleeves, textured seat plastic peel, side stand engagement with crisp tactile click)\n* Close-up ignition perspective with realistic instrument cluster illumination\n* Low-angle rear macro finale with chrome exhaust and subtle atmospheric puff\n* Premium automotive product ASMR aesthetic with authentic craftsmanship\n* No cartoon appearance, no futuristic modifications, no extra vehicles, no distorted components.\nShow thinking\narrow_forward_ios\n\nI'm going to generate a 10-second vertical cinematic video of the miniature Yamaha RX100 unboxing using Omni 1.1 Flash.\n\nWould you like me to kick off this 1 video generation, costing 15 credits?\n\ncheck\nApprove\ncheck\nAlways approve\nclose\nReject\nthumb_up\nthumb_down\ncontent_copy\nflag\nAlways approve\nwarning\nFailed\nThe agent failed. Please try again.\n\nWhat do you want to create?\n\n\n\nadd\narticle_spark\ntune\nstop"
+  },
+  {
+    "id": 3,
+    "vehicle_name": "Royal Enfield Classic 350",
+    "type": "motorcycle",
+    "color_scheme": "Stealth Black with Matte Bronze Accents",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 00:24:28",
+    "output_video_path": "output/2026-09-04/job_0003_Royal_Enfield_Classic_350/video.mp4"
+  },
+  {
+    "id": 4,
+    "vehicle_name": "Kawasaki Ninja H2R",
+    "type": "motorcycle",
+    "color_scheme": "Mirror Coated Spark Black with Lime Green Accents",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 00:44:21",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0004_Kawasaki_Ninja_H2R\\video.mp4"
+  },
+  {
+    "id": 5,
+    "vehicle_name": "Porsche 911 GT3 RS",
+    "type": "car",
+    "color_scheme": "Lizard Green with Carbon Fiber Accents",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 12:25:00",
+    "output_video_path": "output/2026-09-05/job_0005_Porsche_911_GT3_RS/video.mp4"
+  },
+  {
+    "id": 6,
+    "vehicle_name": "Ford Mustang 1969 Boss 429",
+    "type": "car",
+    "color_scheme": "Raven Black with Chrome Bumpers",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 12:50:00",
+    "output_video_path": "output/2026-09-05/job_0006_Ford_Mustang_1969_Boss_429/video.mp4"
+  },
+  {
+    "id": 7,
+    "vehicle_name": "Nissan Skyline GT-R R34 V-Spec II",
+    "type": "car",
+    "color_scheme": "Bayside Blue with Bronze Wheels",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 13:19:19",
+    "output_video_path": "output/2026-09-05/job_0007_Nissan_Skyline_GT-R_R34_V-Spec_II/video.mp4"
+  },
+  {
+    "id": 8,
+    "vehicle_name": "Lamborghini Aventador SVJ",
+    "type": "car",
+    "color_scheme": "Verde Alceo Matte Green with Gloss Black Aero",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 13:46:24",
+    "output_video_path": "output/2026-09-05/job_0008_Lamborghini_Aventador_SVJ/video.mp4"
+  },
+  {
+    "id": 9,
+    "vehicle_name": "Ducati Panigale V4 S",
+    "type": "motorcycle",
+    "color_scheme": "Ducati Red with Brushed Aluminum Components",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 16:08:49",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0009_Ducati_Panigale_V4_S\\video.mp4"
+  },
+  {
+    "id": 10,
+    "vehicle_name": "Rolls Royce Phantom VIII",
+    "type": "car",
+    "color_scheme": "Midnight Sapphire Blue with Silver Satin Hood",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 16:16:20",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0010_Rolls_Royce_Phantom_VIII\\video.mp4"
+  },
+  {
+    "id": 11,
+    "vehicle_name": "BMW S1000RR M Package",
+    "type": "motorcycle",
+    "color_scheme": "Motorsport White with Light Blue and Red M Racing Graphics",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 16:32:41",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0011_BMW_S1000RR_M_Package\\video.mp4"
+  },
+  {
+    "id": 12,
+    "vehicle_name": "Toyota Supra MK4 Turbo (A80)",
+    "type": "car",
+    "color_scheme": "Renaissance Red with Polished Twin-Spoke Wheels",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 16:38:06",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0012_Toyota_Supra_MK4_Turbo_(A80)\\video.mp4"
+  },
+  {
+    "id": 13,
+    "vehicle_name": "Suzuki Hayabusa GSX1300R",
+    "type": "motorcycle",
+    "color_scheme": "Glass Sparkle Black and Candy Burnt Gold",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 16:43:03",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0013_Suzuki_Hayabusa_GSX1300R\\video.mp4"
+  },
+  {
+    "id": 14,
+    "vehicle_name": "Ferrari F40",
+    "type": "car",
+    "color_scheme": "Rosso Corsa with Classic Five-Spoke Star Wheels",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 16:58:08",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0014_Ferrari_F40\\video.mp4"
+  },
+  {
+    "id": 15,
+    "vehicle_name": "Harley-Davidson Fat Boy 114",
+    "type": "motorcycle",
+    "color_scheme": "Vivid Black with Satin Chrome Solid Disc Wheels",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 17:04:03",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0015_Harley-Davidson_Fat_Boy_114\\video.mp4"
+  },
+  {
+    "id": 16,
+    "vehicle_name": "McLaren P1",
+    "type": "car",
+    "color_scheme": "Volcano Yellow with Exposed Gloss Carbon Fiber",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 17:13:52",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0016_McLaren_P1\\video.mp4"
+  },
+  {
+    "id": 17,
+    "vehicle_name": "KTM 390 Duke",
+    "type": "motorcycle",
+    "color_scheme": "Electronic Orange with Electric Blue Graphics",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 17:18:23",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0017_KTM_390_Duke\\video.mp4"
+  },
+  {
+    "id": 18,
+    "vehicle_name": "Dodge Challenger SRT Demon 170",
+    "type": "car",
+    "color_scheme": "Pitch Black with Matte Black Hood and Carbon Accents",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 17:22:14",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0018_Dodge_Challenger_SRT_Demon_170\\video.mp4"
+  },
+  {
+    "id": 19,
+    "vehicle_name": "Yamaha YZF-R1M",
+    "type": "motorcycle",
+    "color_scheme": "Silver Blu Carbon with Polished Aluminum Swingarm",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 17:33:40",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0019_Yamaha_YZF-R1M\\video.mp4"
+  },
+  {
+    "id": 20,
+    "vehicle_name": "Mercedes-AMG G63 Brabus 800",
+    "type": "car",
+    "color_scheme": "Obsidian Black Metallic with WIDESTAR Carbon Body",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 17:37:17",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0020_Mercedes-AMG_G63_Brabus_800\\video.mp4"
+  },
+  {
+    "id": 21,
+    "vehicle_name": "Bugatti Chiron Super Sport 300+",
+    "type": "car",
+    "color_scheme": "Exposed Black Carbon with Jet Orange Racing Stripes",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 17:48:52",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0021_Bugatti_Chiron_Super_Sport_300+\\video.mp4"
+  },
+  {
+    "id": 22,
+    "vehicle_name": "Kawasaki Ninja ZX-10R",
+    "type": "motorcycle",
+    "color_scheme": "Lime Green with Ebony Black Accents",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 17:54:02",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0022_Kawasaki_Ninja_ZX-10R\\video.mp4"
+  },
+  {
+    "id": 23,
+    "vehicle_name": "Koenigsegg Jesko Attack",
+    "type": "car",
+    "color_scheme": "Crystal White with Slanted Apple Red Striping",
+    "scale": "1:18",
+    "status": "FAILED",
+    "completed_date": null,
+    "output_video_path": null,
+    "error_message": "Page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "id": 24,
+    "vehicle_name": "Ducati Streetfighter V4 SP2",
+    "type": "motorcycle",
+    "color_scheme": "Winter Test Matte Black with Brushed Aluminum Tank",
+    "scale": "1:12",
+    "status": "FAILED",
+    "completed_date": null,
+    "output_video_path": null,
+    "error_message": "Page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "id": 25,
+    "vehicle_name": "Aston Martin Valkyrie",
+    "type": "car",
+    "color_scheme": "British Racing Green with Satin Carbon Roof",
+    "scale": "1:18",
+    "status": "FAILED",
+    "completed_date": null,
+    "output_video_path": null,
+    "error_message": "Page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "id": 26,
+    "vehicle_name": "Triumph Rocket 3 R",
+    "type": "motorcycle",
+    "color_scheme": "Silver Ice and Storm Grey with Cranberry Red Pinstripes",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 17:58:45",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0026_Triumph_Rocket_3_R\\video.mp4"
+  },
+  {
+    "id": 27,
+    "vehicle_name": "Lamborghini Huracan STO",
+    "type": "car",
+    "color_scheme": "Blu Laufey with Arancio California Accents",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 21:45:20",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0027_Lamborghini_Huracan_STO\\video.mp4"
+  },
+  {
+    "id": 28,
+    "vehicle_name": "MV Agusta Superveloce 800",
+    "type": "motorcycle",
+    "color_scheme": "Ago Red and Silver with Gold Trellis Frame",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 21:49:34",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0028_MV_Agusta_Superveloce_800\\video.mp4"
+  },
+  {
+    "id": 29,
+    "vehicle_name": "Pagani Huayra BC",
+    "type": "car",
+    "color_scheme": "Titanium Grey with Carbon Aero and Italian Flag Center Stripe",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 21:53:22",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0029_Pagani_Huayra_BC\\video.mp4"
+  },
+  {
+    "id": 30,
+    "vehicle_name": "Aprilia RSV4 Factory 1100",
+    "type": "motorcycle",
+    "color_scheme": "Time Attack Black with Fluorescent Red Fairing Graphics",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 21:59:46",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0030_Aprilia_RSV4_Factory_1100\\video.mp4"
+  },
+  {
+    "id": 31,
+    "vehicle_name": "Chevrolet Corvette Z06 (C8)",
+    "type": "car",
+    "color_scheme": "Torch Red with Carbon Flash High Wing Spoiler",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 22:20:31",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0031_Chevrolet_Corvette_Z06_(C8)\\video.mp4"
+  },
+  {
+    "id": 32,
+    "vehicle_name": "Honda CBR1000RR-R Fireblade SP",
+    "type": "motorcycle",
+    "color_scheme": "Grand Prix Red with HRC Tricolor Graphics",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 22:24:56",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0032_Honda_CBR1000RR-R_Fireblade_SP\\video.mp4"
+  },
+  {
+    "id": 33,
+    "vehicle_name": "Nissan GT-R Nismo (R35)",
+    "type": "car",
+    "color_scheme": "Stealth Gray with Carbon Fiber Hood and Red Pinstripes",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 22:28:32",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0033_Nissan_GT-R_Nismo_(R35)\\video.mp4"
+  },
+  {
+    "id": 34,
+    "vehicle_name": "BMW M1000RR",
+    "type": "motorcycle",
+    "color_scheme": "Light White with M Motorsport Tricolor Graphics and Carbon Wheels",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 22:32:56",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0034_BMW_M1000RR\\video.mp4"
+  },
+  {
+    "id": 35,
+    "vehicle_name": "Ferrari LaFerrari",
+    "type": "car",
+    "color_scheme": "Rosso Corsa with Gloss Black Roof and Silver Center-Lock Wheels",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 22:36:35",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0035_Ferrari_LaFerrari\\video.mp4"
+  },
+  {
+    "id": 36,
+    "vehicle_name": "KTM 1290 Super Duke R Evo",
+    "type": "motorcycle",
+    "color_scheme": "Beast Matte Black with High-Viz Orange Trellis Subframe",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 22:40:59",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0036_KTM_1290_Super_Duke_R_Evo\\video.mp4"
+  },
+  {
+    "id": 37,
+    "vehicle_name": "Porsche 918 Spyder",
+    "type": "car",
+    "color_scheme": "Liquid Metal Chrome with Acid Green Brake Calipers",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 22:44:37",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0037_Porsche_918_Spyder\\video.mp4"
+  },
+  {
+    "id": 38,
+    "vehicle_name": "Harley-Davidson Sportster S",
+    "type": "motorcycle",
+    "color_scheme": "Midnight Crimson with High-Mount Bronze Exhaust Pipes",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 22:49:01",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0038_Harley-Davidson_Sportster_S\\video.mp4"
+  },
+  {
+    "id": 39,
+    "vehicle_name": "Shelby Cobra 427 S/C",
+    "type": "car",
+    "color_scheme": "Guardsman Blue with Twin Wimbledon White Le Mans Stripes",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 22:52:41",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0039_Shelby_Cobra_427_S-C\\video.mp4"
+  },
+  {
+    "id": 40,
+    "vehicle_name": "Ducati Diavel V4",
+    "type": "motorcycle",
+    "color_scheme": "Thrilling Black with Quad-Tip Exhaust System",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 22:57:05",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0040_Ducati_Diavel_V4\\video.mp4"
+  },
+  {
+    "id": 41,
+    "vehicle_name": "Audi R8 V10 Performance",
+    "type": "car",
+    "color_scheme": "Kemora Gray Metallic with Gloss Carbon Sideblades",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-05 23:44:34",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-05\\job_0041_Audi_R8_V10_Performance\\video.mp4"
+  },
+  {
+    "id": 42,
+    "vehicle_name": "Yamaha MT-10 SP",
+    "type": "motorcycle",
+    "color_scheme": "Icon Performance Liquid Metal with Cyan Rim Accents",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-06 16:00:24",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-06\\job_0042_Yamaha_MT-10_SP\\video.mp4"
+  },
+  {
+    "id": 43,
+    "vehicle_name": "Mazda RX-7 Spirit R (FD3S)",
+    "type": "car",
+    "color_scheme": "Titanium Gray Metallic with Gunmetal BBS Wheels",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-06 16:04:30",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-06\\job_0043_Mazda_RX-7_Spirit_R_(FD3S)\\video.mp4"
+  },
+  {
+    "id": 44,
+    "vehicle_name": "Kawasaki Z H2 Supercharged",
+    "type": "motorcycle",
+    "color_scheme": "Metallic Carbon Gray with Green Supercharged Frame",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-06 16:14:20",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-06\\job_0044_Kawasaki_Z_H2_Supercharged\\video.mp4"
+  },
+  {
+    "id": 45,
+    "vehicle_name": "Lexus LFA Nurburgring Edition",
+    "type": "car",
+    "color_scheme": "Whitest White with Fixed Carbon Fiber Rear Wing",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-06 16:18:44",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-06\\job_0045_Lexus_LFA_Nurburgring_Edition\\video.mp4"
+  },
+  {
+    "id": 46,
+    "vehicle_name": "Suzuki Katana",
+    "type": "motorcycle",
+    "color_scheme": "Mystic Silver Metallic with Two-Tone Black and Red Seat",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-06 16:22:22",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-06\\job_0046_Suzuki_Katana\\video.mp4"
+  },
+  {
+    "id": 47,
+    "vehicle_name": "McLaren 720S Spider",
+    "type": "car",
+    "color_scheme": "Papaya Spark Orange with Stealth Pack Details",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-06 16:26:45",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-06\\job_0047_McLaren_720S_Spider\\video.mp4"
+  },
+  {
+    "id": 48,
+    "vehicle_name": "Honda CB1000R Black Edition",
+    "type": "motorcycle",
+    "color_scheme": "Deep Graphite Black with Machined Aluminum Highlights",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-06 16:30:22",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-06\\job_0048_Honda_CB1000R_Black_Edition\\video.mp4"
+  },
+  {
+    "id": 49,
+    "vehicle_name": "Lamborghini Murcielago LP670-4 SV",
+    "type": "car",
+    "color_scheme": "Giallo Orion Pearl Yellow with Massive SV Carbon Wing",
+    "scale": "1:18",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-06 16:35:57",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-06\\job_0049_Lamborghini_Murcielago_LP670-4_SV\\video.mp4"
+  },
+  {
+    "id": 50,
+    "vehicle_name": "Indian Scout Bobber",
+    "type": "motorcycle",
+    "color_scheme": "Thunder Smoke Matte Black with Bar-End Mirrors",
+    "scale": "1:12",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-06 16:39:33",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\2026-09-06\\job_0050_Indian_Scout_Bobber\\video.mp4"
+  }
+]

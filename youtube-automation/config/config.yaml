@@ -1,0 +1,42 @@
+# Google Flow target
+flow:
+  url: "https://flow.google.com/"
+
+# Browser settings
+browser:
+  headless: false
+  profile_directory: "./browser_profile"
+  slow_mo_ms: 0
+  viewport_width: 1280
+  viewport_height: 900
+  default_timeout_ms: 30000
+
+# OpenAI Prompt Generation
+openai:
+  model: "gpt-4o"
+  template_path: "config/prompt_framework.txt"
+
+# Batch & Daily Target
+batch:
+  daily_video_target: 10
+  vehicles_file: "data/vehicles.json"
+
+# Generation parameters
+generation:
+  model: "Omni"
+  target_duration_seconds: 10
+  aspect_ratio: "9:16"
+  resolution: "720p"
+  duration: "10s"
+  videos_per_job: 1
+  approval_wait_seconds: 20
+  min_render_wait_seconds: 150
+  timeout_seconds: 900
+  poll_interval_seconds: 5
+
+
+# Storage
+storage:
+  output_directory: "./output"
+  log_directory: "./logs"
+  debug_directory: "./debug"

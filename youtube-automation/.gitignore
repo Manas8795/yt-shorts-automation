@@ -1,0 +1,72 @@
+# =============================================================================
+# YouTube Automation — .gitignore
+# =============================================================================
+
+# --- Browser profile (contains authenticated sessions — NEVER commit) ---
+browser_profile/
+browser_profile_*
+
+# --- Generated output ---
+output/
+
+# --- Logs and debug artifacts ---
+logs/
+debug/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+pip-wheel-metadata/
+.installed.cfg
+lib/
+lib64/
+sdist/
+wheels/
+share/python-wheels/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# --- Test artifacts ---
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# --- Environment files (may contain secrets) ---
+.env
+.env.*
+*.env
+
+# --- SQLite databases ---
+*.db
+*.sqlite
+*.sqlite3
+
+# --- Playwright state ---
+playwright_state.json
+auth_state.json
+storage_state.json

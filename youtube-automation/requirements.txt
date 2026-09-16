@@ -1,0 +1,23 @@
+# =============================================================================
+# YouTube Automation — Python dependencies
+# Phase 1: Browser automation MVP
+# =============================================================================
+
+# Playwright for browser automation (includes Chromium)
+playwright==1.49.0
+
+# YAML config parsing
+PyYAML==6.0.2
+
+# Rich terminal output (structured logs, progress)
+rich==13.9.4
+
+# Click for CLI entry points (future use)
+click==8.1.8
+
+# python-dateutil for date handling
+python-dateutil==2.9.0.post0
+
+# Excel generation and tracking
+openpyxl==3.1.5
+

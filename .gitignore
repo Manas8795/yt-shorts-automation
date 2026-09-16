@@ -1,0 +1,80 @@
+# ==============================================================================
+# Security & Privacy: Never commit browser session cookies or authentication tokens
+# ==============================================================================
+**/browser_profile/
+browser_profile/
+**/Local State
+**/Preferences
+**/Cookies
+**/Login Data
+
+# ==============================================================================
+# Large Binary & Media Files: Raw renders, intermediate edits, and final videos
+# ==============================================================================
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.tmp
+*.crdownload
+
+# Video pipeline output directories
+youtube-automation/output/
+video-editor/output/
+video-editor/bike assembling niche/
+
+# ==============================================================================
+# Debug Artifacts & Session Screenshots
+# ==============================================================================
+**/debug/
+debug/
+*.png
+*.jpg
+*.jpeg
+scratch/
+
+# Allow essential video-editor branding and sound assets
+!video-editor/channel_logo*.png
+!video-editor/channel_badge.png
+!video-editor/*.mp3
+
+# ==============================================================================
+# Python Runtime & Environments
+# ==============================================================================
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# ==============================================================================
+# Logs & Temporary Files
+# ==============================================================================
+*.log
+logs/
+**/logs/
+
+# ==============================================================================
+# Secrets & Environment Configurations
+# ==============================================================================
+.env
+*.env
+.env.*
+secrets.json
+
+# ==============================================================================
+# Operating System Files
+# ==============================================================================
+.DS_Store
+Thumbs.db
+desktop.ini
