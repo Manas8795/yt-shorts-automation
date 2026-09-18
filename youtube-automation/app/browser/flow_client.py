@@ -110,9 +110,16 @@ class FlowClient:
         Returns the project URL.
         """
         logger.info("Opening a new project canvas for this job...")
-        if "/project/" in self.page.url:
-            self.page.goto(self.flow_url, wait_until="domcontentloaded")
-            self.page.wait_for_timeout(3000)
+        try:
+            if "/project/" in self.page.url:
+                self.page.goto(self.flow_url, wait_until="domcontentloaded", timeout=45000)
+                self.page.wait_for_timeout(3000)
+        except Exception:
+            try:
+                self.page.goto(self.flow_url, wait_until="domcontentloaded", timeout=45000)
+                self.page.wait_for_timeout(3000)
+            except Exception as e:
+                logger.warning(f"Note navigating to flow_url: {e}")
 
         new_proj_btn = self.page.locator("button:has-text('New project'), [aria-label*='New project'], [aria-label*='Create project'], button:has-text('add')")
         if new_proj_btn.count() > 0:
@@ -297,6 +304,15 @@ class FlowClient:
                             pass
                     logger.warning(f"✗ Could not find option for {label}")
                     return False
+
+                # 0) Select Video mode (to ensure we are not in Image mode)
+                click_option("mode=Video", [
+                    "button:has-text('Video')",
+                    "[role='tab']:has-text('Video')",
+                    "[role='button']:has-text('Video')",
+                    "div[role='tab']:has-text('Video')"
+                ])
+                self.page.wait_for_timeout(600)
 
                 # a) Select aspect ratio (9:16)
                 click_option(f"aspect ratio={aspect_ratio}", [
@@ -950,7 +966,16 @@ class FlowClient:
                 except Exception as e:
                     logger.debug(f"DOM video blob extraction note: {e}")
 
-                if os.path.exists(target_video_path) and os.path.getsize(target_video_path) > 100000:
+                def is_valid_mp4(p: str) -> bool:
+                    if not os.path.exists(p) or os.path.getsize(p) < 100000:
+                        return False
+                    try:
+                        with open(p, "rb") as fp:
+                            return b"ftyp" in fp.read(16)
+                    except Exception:
+                        return False
+
+                if is_valid_mp4(target_video_path):
                     file_size_mb = round(os.path.getsize(target_video_path) / (1024 * 1024), 2)
                     logger.info(f"✓ Video verified and successfully saved to: {target_video_path} ({file_size_mb} MB)")
                     return target_video_path
@@ -960,19 +985,69 @@ class FlowClient:
                 self.page.mouse.click(click_x, click_y)
                 self.page.wait_for_timeout(2500)
 
-                dl_btn = self.page.locator("button[aria-label='Download scene'], button[aria-label*='Download'], button:has-text('download')").first
-                if dl_btn.count() > 0 and dl_btn.is_visible():
-                    with self.page.expect_download(timeout=60000) as dl_info:
-                        dl_btn.click(force=True)
-                    dl = dl_info.value
-                    dl.save_as(target_video_path)
+                # Try DOM video extraction in modal
+                try:
+                    video_src = self.page.evaluate('''() => {
+                        const v = document.querySelector('video');
+                        return v ? (v.currentSrc || v.src) : null;
+                    }''')
+                    if video_src and video_src.startswith('blob:'):
+                        logger.info("Found DOM <video> blob source in modal. Extracting directly...")
+                        b64_data = self.page.evaluate('''async (blobUrl) => {
+                            try {
+                                const res = await fetch(blobUrl);
+                                const blob = await res.blob();
+                                return new Promise((resolve) => {
+                                    const reader = new FileReader();
+                                    reader.onloadend = () => resolve(reader.result.split(',')[1]);
+                                    reader.readAsDataURL(blob);
+                                });
+                            } catch (e) {
+                                return null;
+                            }
+                        }''', video_src)
+                        if b64_data:
+                            import base64
+                            vbytes = base64.b64decode(b64_data)
+                            if len(vbytes) > 100000 and b"ftyp" in vbytes[:16]:
+                                with open(target_video_path, "wb") as f:
+                                    f.write(vbytes)
+                                logger.info("✓ Successfully extracted video directly from modal DOM <video> blob.")
+                                return target_video_path
+                except Exception as e:
+                    logger.debug(f"Modal DOM video blob extraction note: {e}")
 
-                if os.path.exists(target_video_path) and os.path.getsize(target_video_path) > 100000:
+                dl_btn = self.page.locator("button[aria-label='Download scene'], button[aria-label*='Download'], button:has-text('download'), [aria-label*='Download']").first
+                if dl_btn.count() > 0 and dl_btn.is_visible():
+                    logger.info("Clicking modal download button...")
+                    dl_btn.click(force=True)
+                    self.page.wait_for_timeout(1200)
+
+                    pop_opt = self.page.locator("button:has-text('720p'), [role='menuitem']:has-text('720p'), button:has-text('Original size'), [role='menuitem']:has-text('Original size'), *:has-text('Original size'), *:has-text('720p')").first
+                    if pop_opt.count() > 0 and pop_opt.is_visible():
+                        logger.info("Found resolution popover option. Clicking to download...")
+                        with self.page.expect_download(timeout=60000) as dl_info:
+                            pop_opt.click(force=True)
+                        dl = dl_info.value
+                        dl.save_as(target_video_path)
+                    else:
+                        with self.page.expect_download(timeout=30000) as dl_info:
+                            dl_btn.click(force=True)
+                        dl = dl_info.value
+                        dl.save_as(target_video_path)
+
+                if is_valid_mp4(target_video_path):
                     file_size_mb = round(os.path.getsize(target_video_path) / (1024 * 1024), 2)
                     logger.info(f"✓ Video saved via modal toolbar: {target_video_path} ({file_size_mb} MB)")
                     return target_video_path
 
-                raise RuntimeError("Video file was not created or was too small.")
+                if os.path.exists(target_video_path) and not is_valid_mp4(target_video_path):
+                    try:
+                        os.remove(target_video_path)
+                    except Exception:
+                        pass
+
+                raise RuntimeError("Video file was not created or was not a valid MP4.")
 
             except Exception as e:
                 logger.warning(f"Download attempt {attempt}/{max_retries} failed: {e}")

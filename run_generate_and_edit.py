@@ -21,8 +21,14 @@ yt_dir = os.path.join(root_dir, "youtube-automation")
 ve_dir = os.path.join(root_dir, "video-editor")
 uploader_dir = os.path.join(root_dir, "youtube-uploader")
 
+import argparse
+
 def main():
-    target_count = 10
+    parser = argparse.ArgumentParser(description="Generate, edit, and upload vehicle Shorts.")
+    parser.add_argument("-n", "--count", type=int, default=3, help="Number of videos to generate, edit, and upload.")
+    args = parser.parse_args()
+    target_count = args.count
+
     print("=" * 70)
     print(f"[*] STARTING END-TO-END PIPELINE: GENERATE, EDIT & UPLOAD {target_count} CARS")
     print("=" * 70)

@@ -147,6 +147,16 @@ def main():
             job = GenerationJob(job_id=job_id, prompt=prompt)
 
             try:
+                # Ensure healthy page before starting job
+                try:
+                    if browser_mgr.page is None or browser_mgr.page.is_closed():
+                        logger.info("Automation page is closed or not ready. Launching tab...")
+                        flow_client.page = browser_mgr.launch()
+                    else:
+                        flow_client.page.bring_to_front()
+                except Exception:
+                    flow_client.page = browser_mgr.launch()
+
                 # Open fresh project canvas
                 project_url = flow_client.navigate_to_create()
                 job.set_project_url(project_url)

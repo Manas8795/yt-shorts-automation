@@ -996,7 +996,9 @@
     "color_scheme": "Crystal Blue with Crystalline Split Tail Lamps and Hexagonal Grille",
     "scale": "1:18",
     "source_excel": "100_popular_cars_in_India",
-    "status": "PENDING"
+    "status": "COMPLETED",
+    "completed_date": "2026-09-17 12:30:31",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\100_popular_cars_in_India_91_Skoda_Slavia\\video.mp4"
   },
   {
     "id": 92,
@@ -1005,7 +1007,10 @@
     "color_scheme": "Tornado Red with Signature Butterfly Grille and Two-Tone Machine Alloys",
     "scale": "1:18",
     "source_excel": "100_popular_cars_in_India",
-    "status": "PENDING"
+    "status": "COMPLETED",
+    "error_message": "Page.goto: Target page, context or browser has been closed",
+    "completed_date": "2026-09-17 12:38:12",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\100_popular_cars_in_India_92_Skoda_Kushaq\\video.mp4"
   },
   {
     "id": 93,
@@ -1014,7 +1019,10 @@
     "color_scheme": "Lava Blue Metallic with Panoramic Sunroof and Illuminated Grille Ribs",
     "scale": "1:18",
     "source_excel": "100_popular_cars_in_India",
-    "status": "PENDING"
+    "status": "COMPLETED",
+    "error_message": "Failed to download video after 3 attempts: Video file was not created or was not a valid MP4.",
+    "completed_date": "2026-09-19 03:42:58",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\100_popular_cars_in_India_93_Skoda_Kodiaq\\video.mp4"
   },
   {
     "id": 94,
@@ -1023,7 +1031,9 @@
     "color_scheme": "Rosso Brunello Wine Metallic with Executive Matrix LED Lights",
     "scale": "1:18",
     "source_excel": "100_popular_cars_in_India",
-    "status": "PENDING"
+    "status": "COMPLETED",
+    "completed_date": "2026-09-19 03:46:34",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\100_popular_cars_in_India_94_Skoda_Superb\\video.mp4"
   },
   {
     "id": 95,
@@ -1032,7 +1042,9 @@
     "color_scheme": "Candy White with Argyle Inspired Diamond Mesh Grille and Connected LEDs",
     "scale": "1:18",
     "source_excel": "100_popular_cars_in_India",
-    "status": "PENDING"
+    "status": "COMPLETED",
+    "completed_date": "2026-09-19 03:51:07",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\100_popular_cars_in_India_95_MG_Hector\\video.mp4"
   },
   {
     "id": 96,

@@ -1080,6 +1080,66 @@
     "local_video_path": "video-editor\\output\\100_popular_cars_in_India_90_Volkswagen_Vento\\Volkswagen_Vento.mp4"
   },
   {
+    "id": 91,
+    "vehicle_name": "Skoda Slavia",
+    "category": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "title": "Miniature Skoda Slavia ASMR Unboxing \ud83c\udfce\ufe0f #shorts #cars",
+    "youtube_url": "https://studio.youtube.com/channel/videos/short",
+    "visibility": "PUBLIC",
+    "upload_status": "UPLOADED",
+    "uploaded_date": "2026-09-17 12:31:41",
+    "local_video_path": "video-editor\\output\\100_popular_cars_in_India_91_Skoda_Slavia\\Skoda_Slavia.mp4"
+  },
+  {
+    "id": 92,
+    "vehicle_name": "Skoda Kushaq",
+    "category": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "title": "Miniature Skoda Kushaq ASMR Unboxing \ud83c\udfce\ufe0f #shorts #cars",
+    "youtube_url": "https://studio.youtube.com/channel/videos/short",
+    "visibility": "PUBLIC",
+    "upload_status": "UPLOADED",
+    "uploaded_date": "2026-09-17 12:39:19",
+    "local_video_path": "video-editor\\output\\100_popular_cars_in_India_92_Skoda_Kushaq\\Skoda_Kushaq.mp4"
+  },
+  {
+    "id": 93,
+    "vehicle_name": "Skoda Kodiaq",
+    "category": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "title": "Miniature Skoda Kodiaq ASMR Unboxing \ud83c\udfce\ufe0f #shorts #cars",
+    "youtube_url": "https://studio.youtube.com/channel/videos/short",
+    "visibility": "PUBLIC",
+    "upload_status": "UPLOADED",
+    "uploaded_date": "2026-09-19 03:44:15",
+    "local_video_path": "video-editor\\output\\100_popular_cars_in_India_93_Skoda_Kodiaq\\Skoda_Kodiaq.mp4"
+  },
+  {
+    "id": 94,
+    "vehicle_name": "Skoda Superb",
+    "category": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "title": "Miniature Skoda Superb ASMR Unboxing \ud83c\udfce\ufe0f #shorts #cars",
+    "youtube_url": "https://studio.youtube.com/channel/videos/short",
+    "visibility": "PUBLIC",
+    "upload_status": "UPLOADED",
+    "uploaded_date": "2026-09-19 03:47:45",
+    "local_video_path": "video-editor\\output\\100_popular_cars_in_India_94_Skoda_Superb\\Skoda_Superb.mp4"
+  },
+  {
+    "id": 95,
+    "vehicle_name": "MG Hector",
+    "category": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "title": "Miniature MG Hector ASMR Unboxing \ud83c\udfce\ufe0f #shorts #cars",
+    "youtube_url": "https://studio.youtube.com/channel/videos/short",
+    "visibility": "PUBLIC",
+    "upload_status": "UPLOADED",
+    "uploaded_date": "2026-09-19 03:52:11",
+    "local_video_path": "video-editor\\output\\100_popular_cars_in_India_95_MG_Hector\\MG_Hector.mp4"
+  },
+  {
     "id": 1,
     "vehicle_name": "Hero Splendor",
     "category": "motorcycle",
