@@ -259,14 +259,16 @@ class FlowClient:
             # Strategy C: Fallback text/class matching for common pill states
             if not pill_btn:
                 pill_selectors = [
+                    "button[aria-label='Settings']",
+                    "button[aria-label='Settings trigger']",
+                    "button:has-text('tune')",
                     "button:has-text('Video')",
                     "button:has-text('360p')",
                     "button:has-text('720p')",
                     "button:has-text('8s')",
                     "button:has-text('x2')",
                     "button:has-text('x1')",
-                    "[class*='pill']",
-                    "[class*='chip']"
+                    "[class*='pill']"
                 ]
                 for sel in pill_selectors:
                     c = self.page.locator(sel).first
@@ -750,12 +752,12 @@ class FlowClient:
             except Exception:
                 pass
 
-        # 3. Check if playable video card exists on canvas
-        play_icons = self.page.locator("span:has-text('play_arrow'), [aria-label*='Play' i], div.video-container")
+        # 3. Check if playable video card exists on canvas or in session
+        play_icons = self.page.locator("span:has-text('play_arrow'), [aria-label*='Play' i], div.video-container, video, [data-testid*='video']")
         if play_icons.count() > 0:
             return True
 
-        return True
+        return False
 
 
     def wait_for_generation(
@@ -785,9 +787,8 @@ class FlowClient:
                 if "Quota exceeded" in error_text or "blocked by policy" in error_text:
                     raise RuntimeError(f"Google Flow reported generation error: {error_text}")
 
-            # If still within the first 60 seconds and render hasn't visibly started, retry approval
-            if elapsed <= 60:
-                self.handle_agent_question_or_approval()
+            # Keep retrying approval if prompt proposal is pending
+            self.handle_agent_question_or_approval()
 
             # Check if generation finished (with 150s elapsed guard)
             if self.is_generation_finished(min_wait_elapsed=elapsed, min_wait_required=min_wait_seconds):
