@@ -1140,6 +1140,42 @@
     "local_video_path": "video-editor\\output\\100_popular_cars_in_India_95_MG_Hector\\MG_Hector.mp4"
   },
   {
+    "id": 96,
+    "vehicle_name": "MG Astor",
+    "category": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "title": "Miniature MG Astor ASMR Unboxing \ud83c\udfce\ufe0f #shorts #cars",
+    "youtube_url": "https://studio.youtube.com/channel/videos/short",
+    "visibility": "PUBLIC",
+    "upload_status": "UPLOADED",
+    "uploaded_date": "2026-09-20 00:52:00",
+    "local_video_path": "video-editor\\output\\100_popular_cars_in_India_96_MG_Astor\\MG_Astor.mp4"
+  },
+  {
+    "id": 97,
+    "vehicle_name": "Mahindra Scorpio Classic",
+    "category": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "title": "Miniature Mahindra Scorpio Classic ASMR Unboxing \ud83c\udfce\ufe0f #shorts #cars",
+    "youtube_url": "https://studio.youtube.com/channel/videos/short",
+    "visibility": "PUBLIC",
+    "upload_status": "UPLOADED",
+    "uploaded_date": "2026-09-20 00:58:00",
+    "local_video_path": "video-editor\\output\\100_popular_cars_in_India_97_Mahindra_Scorpio_Classic\\Mahindra_Scorpio_Classic.mp4"
+  },
+  {
+    "id": 98,
+    "vehicle_name": "Hyundai Grand i10 Nios",
+    "category": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "title": "Miniature Hyundai Grand i10 Nios ASMR Unboxing \ud83c\udfce\ufe0f #shorts #cars",
+    "youtube_url": "https://studio.youtube.com/channel/videos/short",
+    "visibility": "PUBLIC",
+    "upload_status": "UPLOADED",
+    "uploaded_date": "2026-09-20 01:01:21",
+    "local_video_path": "video-editor\\output\\100_popular_cars_in_India_98_Hyundai_Grand_i10_Nios\\Hyundai_Grand_i10_Nios.mp4"
+  },
+  {
     "id": 1,
     "vehicle_name": "Hero Splendor",
     "category": "motorcycle",

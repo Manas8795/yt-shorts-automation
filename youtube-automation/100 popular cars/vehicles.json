@@ -1053,7 +1053,9 @@
     "color_scheme": "Spiced Orange with Celestial Diamond Grille and Full LED Hawkeye Lamps",
     "scale": "1:18",
     "source_excel": "100_popular_cars_in_India",
-    "status": "PENDING"
+    "status": "COMPLETED",
+    "completed_date": "2026-09-20 00:51:08",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\100_popular_cars_in_India_96_MG_Astor\\video.mp4"
   },
   {
     "id": 97,
@@ -1062,7 +1064,10 @@
     "color_scheme": "Galaxy Grey with Vertical Chrome Slats and Classic Spoiler",
     "scale": "1:18",
     "source_excel": "100_popular_cars_in_India",
-    "status": "PENDING"
+    "status": "COMPLETED",
+    "error_message": "It looks like you are using Playwright Sync API inside the asyncio loop.\nPlease use the Async API instead.",
+    "completed_date": "2026-09-20 00:56:39",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\100_popular_cars_in_India_97_Mahindra_Scorpio_Classic\\video.mp4"
   },
   {
     "id": 98,
@@ -1071,7 +1076,10 @@
     "color_scheme": "Spark Green with Black Roof and Boomerang DRLs",
     "scale": "1:18",
     "source_excel": "100_popular_cars_in_India",
-    "status": "PENDING"
+    "status": "COMPLETED",
+    "error_message": "It looks like you are using Playwright Sync API inside the asyncio loop.\nPlease use the Async API instead.",
+    "completed_date": "2026-09-20 01:00:16",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\100_popular_cars_in_India_98_Hyundai_Grand_i10_Nios\\video.mp4"
   },
   {
     "id": 99,

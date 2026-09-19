@@ -58,12 +58,23 @@ class BrowserManager:
         Launches Chromium with persistent context to preserve auth.
         Opens a dedicated tab for automation and preserves all existing user tabs.
         """
+        # If context is already active and healthy, simply open a new dedicated tab
+        if self.context:
+            try:
+                self.page = self.context.new_page()
+                self.page.bring_to_front()
+                logger.info("Automation page opened successfully on existing context.")
+                return self.page
+            except Exception:
+                self.close()
+
         os.makedirs(self.profile_directory, exist_ok=True)
         os.makedirs(self.debug_directory, exist_ok=True)
         self._cleanup_stale_locks()
 
         logger.info(f"Launching Chromium browser with persistent profile at: {self.profile_directory}")
-        self._playwright = sync_playwright().start()
+        if self._playwright is None:
+            self._playwright = sync_playwright().start()
 
         self.context = self._playwright.chromium.launch_persistent_context(
             user_data_dir=self.profile_directory,
