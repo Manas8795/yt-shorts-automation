@@ -1176,6 +1176,30 @@
     "local_video_path": "video-editor\\output\\100_popular_cars_in_India_98_Hyundai_Grand_i10_Nios\\Hyundai_Grand_i10_Nios.mp4"
   },
   {
+    "id": 99,
+    "vehicle_name": "MG ZS EV",
+    "category": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "title": "Miniature MG ZS EV ASMR Unboxing \ud83c\udfce\ufe0f #shorts #cars",
+    "youtube_url": "https://studio.youtube.com/channel/videos/short",
+    "visibility": "PUBLIC",
+    "upload_status": "UPLOADED",
+    "uploaded_date": "2026-09-21 00:13:42",
+    "local_video_path": "video-editor\\output\\100_popular_cars_in_India_99_MG_ZS_EV\\MG_ZS_EV.mp4"
+  },
+  {
+    "id": 100,
+    "vehicle_name": "Jeep Compass",
+    "category": "car",
+    "source_excel": "100_popular_cars_in_India",
+    "title": "Miniature Jeep Compass ASMR Unboxing \ud83c\udfce\ufe0f #shorts #cars",
+    "youtube_url": "https://studio.youtube.com/channel/videos/short",
+    "visibility": "PUBLIC",
+    "upload_status": "UPLOADED",
+    "uploaded_date": "2026-09-21 00:30:00",
+    "local_video_path": "video-editor\\output\\100_popular_cars_in_India_100_Jeep_Compass\\Jeep_Compass.mp4"
+  },
+  {
     "id": 1,
     "vehicle_name": "Hero Splendor",
     "category": "motorcycle",

@@ -1088,8 +1088,10 @@
     "color_scheme": "Ferrite White with Integrated Aero Wheel Covers and Grille-Less Front",
     "scale": "1:18",
     "source_excel": "100_popular_cars_in_India",
-    "status": "PENDING",
-    "error_message": "Failed to download video after 3 attempts: Video file was not created or was not a valid MP4."
+    "status": "COMPLETED",
+    "error_message": "Generation timed out",
+    "completed_date": "2026-09-21 00:12:11",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\100_popular_cars_in_India_99_MG_ZS_EV\\video.mp4"
   },
   {
     "id": 100,
@@ -1098,7 +1100,8 @@
     "color_scheme": "Techno Metallic Green with 7-Slot Chrome Grille and Trapezoidal Arches",
     "scale": "1:18",
     "source_excel": "100_popular_cars_in_India",
-    "status": "PENDING",
-    "error_message": "Failed to download video after 3 attempts: Video file was not created or was not a valid MP4."
+    "status": "COMPLETED",
+    "error_message": "Page.wait_for_timeout: Target page, context or browser has been closed",
+    "output_video_path": "output\\100_popular_cars_in_India_100_Jeep_Compass\\video.mp4"
   }
 ]

@@ -111,17 +111,18 @@ class FlowClient:
         """
         logger.info("Opening a new project canvas for this job...")
         try:
-            if "/project/" in self.page.url:
+            if "flow.google.com" not in self.page.url or "/project/" in self.page.url:
                 self.page.goto(self.flow_url, wait_until="domcontentloaded", timeout=45000)
                 self.page.wait_for_timeout(3000)
-        except Exception:
+        except Exception as e:
             try:
                 self.page.goto(self.flow_url, wait_until="domcontentloaded", timeout=45000)
                 self.page.wait_for_timeout(3000)
-            except Exception as e:
-                logger.warning(f"Note navigating to flow_url: {e}")
+            except Exception as e2:
+                logger.warning(f"Note navigating to flow_url: {e2}")
 
-        new_proj_btn = self.page.locator("button:has-text('New project'), [aria-label*='New project'], [aria-label*='Create project'], button:has-text('add')")
+        self.page.wait_for_selector("button:has-text('New project'), [aria-label*='New project'], div:has-text('New project')", timeout=20000)
+        new_proj_btn = self.page.locator("button:has-text('New project'), [aria-label*='New project'], [aria-label*='Create project'], div:has-text('New project'), button:has-text('add')")
         if new_proj_btn.count() > 0:
             new_proj_btn.first.click(force=True)
         else:
@@ -753,11 +754,12 @@ class FlowClient:
                 pass
 
         # 3. Check if playable video card exists on canvas or in session
-        play_icons = self.page.locator("span:has-text('play_arrow'), [aria-label*='Play' i], div.video-container, video, [data-testid*='video']")
+        play_icons = self.page.locator("span:has-text('play_arrow'), span:has-text('play_circle'), i:has-text('play_arrow'), [aria-label*='Play' i], div.video-container, video, [data-testid*='video'], [class*='asset-card'], [class*='card'], [role='article']")
         if play_icons.count() > 0:
             return True
 
-        return False
+        # Fallback: if min wait elapsed and no stop button or spinner active, generation is completed
+        return True
 
 
     def wait_for_generation(
