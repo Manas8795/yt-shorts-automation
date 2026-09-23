@@ -39,7 +39,7 @@ class UploadTracker:
                         vid_id = item.get("id")
                         v_name = item.get("vehicle_name", "").strip().lower()
                         v_path = os.path.normpath(item.get("local_video_path", ""))
-                        v_src = item.get("source_excel") or ("100_popular_cars_in_India" if "100_popular_cars" in v_path else "master_vehicles_tracker")
+                        v_src = item.get("source_excel") or ("Popular_Cars_USA_Canada_Top_50" if "Popular_Cars" in v_path else ("100_popular_cars_in_India" if "100_popular_cars" in v_path else "master_vehicles_tracker"))
                         item["source_excel"] = v_src
 
                         # Key by composite key and name
@@ -100,7 +100,7 @@ class UploadTracker:
         source_excel: Optional[str] = None
     ):
         v_path = os.path.normpath(local_video_path) if local_video_path else ""
-        v_src = source_excel or ("100_popular_cars_in_India" if "100_popular_cars" in v_path else "master_vehicles_tracker")
+        v_src = source_excel or ("Popular_Cars_USA_Canada_Top_50" if "Popular_Cars" in v_path else ("100_popular_cars_in_India" if "100_popular_cars" in v_path else "master_vehicles_tracker"))
         rec = {
             "id": vid_id,
             "vehicle_name": vehicle_name,

@@ -47,6 +47,13 @@ def sync_all_trackers():
     except Exception as e:
         print(f"[-] 100 Cars tracker sync note: {e}")
 
+    try:
+        from sync_usa_cars_tracker import update_usa_cars_tracker
+        update_usa_cars_tracker(root_dir)
+        print("[+] Synced: Popular_Cars_USA_Canada_tracker.xlsx")
+    except Exception as e:
+        print(f"[-] USA Cars tracker sync note: {e}")
+
 
 def mark_unuploaded(identifier: str) -> bool:
     """Removes a vehicle from uploaded records so it can be uploaded again."""

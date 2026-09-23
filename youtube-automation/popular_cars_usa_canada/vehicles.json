@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1,
+    "vehicle_name": "Ford F-150",
+    "type": "car",
+    "color_scheme": "Agate Black Metallic with Chrome Grille and C-Clamp LED Headlights",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-23 01:10:52",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\Popular_Cars_USA_Canada_Top_50_01_Ford_F-150\\video.mp4"
+  },
+  {
+    "id": 2,
+    "vehicle_name": "Chevrolet Silverado 1500",
+    "type": "car",
+    "color_scheme": "Red Hot with Dual-Outlet Exhaust and High-Gloss Black Grille",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-23 17:41:27",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\Popular_Cars_USA_Canada_Top_50_02_Chevrolet_Silverado_1500\\video.mp4"
+  },
+  {
+    "id": 3,
+    "vehicle_name": "Toyota RAV4",
+    "type": "car",
+    "color_scheme": "Cavalry Blue with Ice Edge Contrast Roof and Rugged Fender Flares",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "COMPLETED",
+    "completed_date": "2026-09-23 18:04:20",
+    "output_video_path": "D:\\Temp\\yt automation\\youtube-automation\\output\\Popular_Cars_USA_Canada_Top_50_03_Toyota_RAV4\\video.mp4"
+  },
+  {
+    "id": 4,
+    "vehicle_name": "Honda CR-V",
+    "type": "car",
+    "color_scheme": "Canyon River Blue Metallic with Gloss Black Grille and Dual Exhaust Finishers",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 5,
+    "vehicle_name": "Ram 1500",
+    "type": "car",
+    "color_scheme": "Delmonico Red Pearl with Chrome Billet Grille and Sport Performance Hood",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 6,
+    "vehicle_name": "GMC Sierra 1500",
+    "type": "car",
+    "color_scheme": "Titanium Rush Metallic with Signature C-Shape LEDs and Vader Chrome Accents",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 7,
+    "vehicle_name": "Toyota Tacoma",
+    "type": "car",
+    "color_scheme": "Solar Octane Orange with TRD Pro Heritage Grille and Rigid Fog Lamps",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 8,
+    "vehicle_name": "Chevrolet Equinox",
+    "type": "car",
+    "color_scheme": "Iridescent Pearl Tricoat with Gloss Black Roof Rails and Chrome Accents",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 9,
+    "vehicle_name": "Toyota Camry",
+    "type": "car",
+    "color_scheme": "Supersonic Red with Midnight Black Dual-Tone Roof and Quad Chrome Tips",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 10,
+    "vehicle_name": "Tesla Model Y",
+    "type": "car",
+    "color_scheme": "Deep Blue Metallic with Stealth Satin Aero Wheels and Panoramic Glass Roof",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 11,
+    "vehicle_name": "Toyota Corolla",
+    "type": "car",
+    "color_scheme": "Celestite Metallic with Sport Mesh Front Grille and LED Headlights",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 12,
+    "vehicle_name": "Honda Civic",
+    "type": "car",
+    "color_scheme": "Rallye Red with Gloss Black Decklid Spoiler and Center Exhaust",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 13,
+    "vehicle_name": "Ford Explorer",
+    "type": "car",
+    "color_scheme": "Carbonized Gray Metallic with Black Painted Roof and Quad Exhaust Outlets",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 14,
+    "vehicle_name": "Hyundai Tucson",
+    "type": "car",
+    "color_scheme": "Amazon Grey with Dark Chrome Parametric Hidden LED DRLs",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 15,
+    "vehicle_name": "Nissan Rogue",
+    "type": "car",
+    "color_scheme": "Sunset Drift ChromaFlair with Super Black Two-Tone Roof",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 16,
+    "vehicle_name": "Jeep Grand Cherokee",
+    "type": "car",
+    "color_scheme": "Baltic Grey Metallic with Gloss Black Roof and 7-Slot Grille",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 17,
+    "vehicle_name": "Jeep Wrangler",
+    "type": "car",
+    "color_scheme": "Firecracker Red with Black Freedom Hardtop and Exposed Door Hinges",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 18,
+    "vehicle_name": "Subaru Crosstrek",
+    "type": "car",
+    "color_scheme": "Sun Blaze Pearl with Rugged Body Cladding and Black Alloy Wheels",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 19,
+    "vehicle_name": "Kia Sportage",
+    "type": "car",
+    "color_scheme": "Jungle Green with Matte Black Badging and Boomerang LED DRLs",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 20,
+    "vehicle_name": "Subaru Forester",
+    "type": "car",
+    "color_scheme": "Autumn Green Metallic with Raised Roof Rails and Hexagonal Grille",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 21,
+    "vehicle_name": "Tesla Model 3",
+    "type": "car",
+    "color_scheme": "Solid Black with Satin Aero Covers and Glass Panoramic Canopy",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 22,
+    "vehicle_name": "Chevrolet Tahoe",
+    "type": "car",
+    "color_scheme": "Sterling Gray Metallic with RST Performance Grille and 22-Inch Wheels",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 23,
+    "vehicle_name": "Ford Maverick",
+    "type": "car",
+    "color_scheme": "Cyber Orange Metallic with FX4 Off-Road Graphics and Black Bed Liner",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 24,
+    "vehicle_name": "Ford Bronco",
+    "type": "car",
+    "color_scheme": "Area 51 Blue with Modular Hardtop and Heavy-Duty Sasquatch Wheels",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 25,
+    "vehicle_name": "Toyota Highlander",
+    "type": "car",
+    "color_scheme": "Moon Dust Metallic with Twin-Tip Exhaust and Silver Roof Rails",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 26,
+    "vehicle_name": "Honda Accord",
+    "type": "car",
+    "color_scheme": "Meteorite Gray Metallic with Gloss Black Mesh Grille and Fastback Silhouette",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 27,
+    "vehicle_name": "Nissan Sentra",
+    "type": "car",
+    "color_scheme": "Monarch Orange Metallic with Super Black Roof and V-Motion Grille",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 28,
+    "vehicle_name": "Hyundai Elantra",
+    "type": "car",
+    "color_scheme": "Intense Blue with Parametric Jewel Front Fascia and Angular Sculpting",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 29,
+    "vehicle_name": "Kia Sorento",
+    "type": "car",
+    "color_scheme": "Wolf Gray with Gloss Black Accents and Vertical Star-Map LED Lights",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 30,
+    "vehicle_name": "Chevrolet Trax",
+    "type": "car",
+    "color_scheme": "Nitro Yellow Metallic with Activ Black Bowties and Titanium Accents",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 31,
+    "vehicle_name": "Ford Escape",
+    "type": "car",
+    "color_scheme": "Vapor Blue Metallic with Coast-to-Coast LED Lightbar and ST-Line Grille",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 32,
+    "vehicle_name": "Mazda CX-5",
+    "type": "car",
+    "color_scheme": "Soul Red Crystal Metallic with Signature Wing Chrome Mesh and Dual Exhaust",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 33,
+    "vehicle_name": "Mazda CX-30",
+    "type": "car",
+    "color_scheme": "Polymetal Gray Metallic with Black Cladding and Gloss Black Mirrors",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 34,
+    "vehicle_name": "Honda Pilot",
+    "type": "car",
+    "color_scheme": "Diffused Sky Blue with Rugged TrailSport Grille and Steel Skid Plates",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 35,
+    "vehicle_name": "Toyota Sienna",
+    "type": "car",
+    "color_scheme": "Ruby Flare Pearl with Sport Mesh Front Fascia and Chrome Sliders",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 36,
+    "vehicle_name": "Toyota 4Runner",
+    "type": "car",
+    "color_scheme": "Terra Brown Metallic with TRD Pro Aluminum Skid Plate and Heritage Grille",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 37,
+    "vehicle_name": "Toyota Tundra",
+    "type": "car",
+    "color_scheme": "Magnetic Gray Metallic with Massive Octagonal Grille and LED Lightbar",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 38,
+    "vehicle_name": "Chevrolet Suburban",
+    "type": "car",
+    "color_scheme": "Empire Beige Metallic with High Country Chrome Grille and Power Steps",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 39,
+    "vehicle_name": "GMC Yukon",
+    "type": "car",
+    "color_scheme": "Onyx Black with Denali Galvano Chrome Mesh and Signature C-Lighting",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 40,
+    "vehicle_name": "Cadillac Escalade",
+    "type": "car",
+    "color_scheme": "Black Raven with Galvano Chrome Mesh Grille and 3-Foot Vertical LED Blades",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 41,
+    "vehicle_name": "Jeep Compass",
+    "type": "car",
+    "color_scheme": "Laser Blue Pearl with Gloss Black Roof and Chrome-Rings 7-Slot Grille",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 42,
+    "vehicle_name": "Hyundai Santa Fe",
+    "type": "car",
+    "color_scheme": "Terracotta Orange Matte with H-Shaped LED Headlights and Boxy Tailgate",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 43,
+    "vehicle_name": "Kia Telluride",
+    "type": "car",
+    "color_scheme": "Dark Moss Green with Amber LED Running Lights and X-Line High-Rider Stance",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 44,
+    "vehicle_name": "Nissan Pathfinder",
+    "type": "car",
+    "color_scheme": "Boulder Gray Pearl with Black Two-Tone Roof and Rugged V-Motion Face",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 45,
+    "vehicle_name": "Ford Mustang",
+    "type": "car",
+    "color_scheme": "Grabber Blue Metallic with Black GT Racing Stripes and Quad Exhaust Tips",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 46,
+    "vehicle_name": "Chevrolet Corvette",
+    "type": "car",
+    "color_scheme": "Torch Red with Carbon Flash High-Wing Spoiler and Mid-Engine Glass Cover",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 47,
+    "vehicle_name": "Dodge Charger",
+    "type": "car",
+    "color_scheme": "Plum Crazy Purple with Hellcat Dual-Snorkel Hood and Widebody Flares",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 48,
+    "vehicle_name": "Dodge Challenger",
+    "type": "car",
+    "color_scheme": "TorRed with Satin Black Dual Racing Stripes and Shaker Hood Scoop",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 49,
+    "vehicle_name": "Chevrolet Camaro",
+    "type": "car",
+    "color_scheme": "Vivid Orange Metallic with ZL1 Carbon Fiber Hood Insert and Black Wing",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  },
+  {
+    "id": 50,
+    "vehicle_name": "Ford Mustang Mach-E",
+    "type": "car",
+    "color_scheme": "Cyber Orange Metallic with Dark Aero Grille Shield and Panoramic Glass",
+    "scale": "1:18",
+    "source_excel": "Popular_Cars_USA_Canada_Top_50",
+    "status": "PENDING"
+  }
+]

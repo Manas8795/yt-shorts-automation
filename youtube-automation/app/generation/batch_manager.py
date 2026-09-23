@@ -57,6 +57,9 @@ class BatchManager:
             if "100 popular cars" in self.vehicles_file:
                 from sync_100_cars_tracker import update_100_cars_tracker
                 update_100_cars_tracker(root_dir)
+            if "popular_cars_usa_canada" in self.vehicles_file:
+                from sync_usa_cars_tracker import update_usa_cars_tracker
+                update_usa_cars_tracker(root_dir)
         except Exception as e:
             logger.debug(f"Master tracker sync bypassed: {e}")
 

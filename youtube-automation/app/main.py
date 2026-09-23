@@ -92,25 +92,28 @@ def run_pipeline() -> int:
     for arg in sys.argv[1:]:
         if arg in ["--100-cars", "--100cars"]:
             vehicles_file = "100 popular cars/vehicles.json"
+        elif arg in ["--usa-cars", "--usa", "--popular-cars-usa", "--50-usa"]:
+            vehicles_file = "popular_cars_usa_canada/vehicles.json"
         elif arg.startswith("--vehicles="):
             vehicles_file = arg.split("=", 1)[1]
 
     batch_mgr = BatchManager(vehicles_file=vehicles_file)
     pending_vehicles = batch_mgr.get_next_batch(count=1)
 
-    # Auto-switch to 100 popular cars if default database is fully completed
-    if not pending_vehicles and "100 popular cars" not in vehicles_file:
-        alt_path = "100 popular cars/vehicles.json"
+    # Auto-switch to next active database if current is fully completed
+    if not pending_vehicles:
         base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        if os.path.exists(os.path.join(base_dir, alt_path)):
-            alt_mgr = BatchManager(vehicles_file=alt_path)
-            alt_pending = alt_mgr.get_next_batch(count=1)
-            if alt_pending:
-                logger.info(f"Original database ({vehicles_file}) is fully completed (50/50).")
-                logger.info(f"Automatically switching to 100 Popular Cars ({alt_path})!")
-                batch_mgr = alt_mgr
-                pending_vehicles = alt_pending
-                vehicles_file = alt_path
+        for alt_path in ["popular_cars_usa_canada/vehicles.json", "100 popular cars/vehicles.json"]:
+            if alt_path != vehicles_file and os.path.exists(os.path.join(base_dir, alt_path)):
+                alt_mgr = BatchManager(vehicles_file=alt_path)
+                alt_pending = alt_mgr.get_next_batch(count=1)
+                if alt_pending:
+                    logger.info(f"Database ({vehicles_file}) is fully completed.")
+                    logger.info(f"Automatically switching to active queue ({alt_path})!")
+                    batch_mgr = alt_mgr
+                    pending_vehicles = alt_pending
+                    vehicles_file = alt_path
+                    break
 
     if not pending_vehicles:
         logger.info("All vehicles in the database have already been completed! No pending jobs.")
@@ -120,7 +123,8 @@ def run_pipeline() -> int:
     v_id = vehicle["id"]
     v_name = vehicle["vehicle_name"]
     safe_name = v_name.replace(" ", "_").replace("/", "-")
-    source_excel = vehicle.get("source_excel", "100_popular_cars_in_India" if "100 popular cars" in str(vehicles_file) else "master_vehicles_tracker")
+    default_excel = "Popular_Cars_USA_Canada_Top_50" if "popular_cars_usa_canada" in str(vehicles_file) else ("100_popular_cars_in_India" if "100 popular cars" in str(vehicles_file) else "master_vehicles_tracker")
+    source_excel = vehicle.get("source_excel", default_excel)
     job_id = f"{source_excel}_{v_id:02d}_{safe_name}"
 
     logger.info(f"Processing Next Uncompleted Vehicle #{v_id}: {v_name} ({vehicle.get('color_scheme', '')})")

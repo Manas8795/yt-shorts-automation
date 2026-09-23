@@ -224,31 +224,8 @@ def edit_video_with_audio(
     try:
         res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
         if res.returncode != 0:
-            if not use_outro:
-                # Fallback if audio copy fails: re-encode audio to aac
-                cmd_fallback = [
-                    FFMPEG_BIN,
-                    "-y",
-                    "-i", source_video,
-                    "-i", logo_path,
-                    "-filter_complex", filter_complex,
-                    "-map", "[outv]",
-                    "-map", "0:a?",
-                    "-c:v", "libx264",
-                    "-preset", "fast",
-                    "-crf", "18",
-                    "-pix_fmt", "yuv420p",
-                    "-c:a", "aac",
-                    "-b:a", "192k",
-                    output_video
-                ]
-                res_fb = subprocess.run(cmd_fallback, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-                if res_fb.returncode != 0:
-                    print(f"[-] FFmpeg error: {res_fb.stderr[-300:]}")
-                    return False
-            else:
-                print(f"[-] FFmpeg error: {res.stderr[-300:]}")
-                return False
+            print(f"[-] FFmpeg error: {res.stderr[-300:]}")
+            return False
         return True
     except Exception as e:
         print(f"[-] Execution error: {e}")
@@ -389,9 +366,10 @@ def main():
         with open(args.database, "r", encoding="utf-8") as f:
             vehicles = json.load(f)
     else:
-        # Auto-load both 50 vehicles and 100 Popular Cars
+        # Auto-load 50 vehicles, 100 Popular Cars, and Popular Cars USA Canada Top 50
         db_original = os.path.join(yt_dir, "data", "vehicles.json")
         db_100 = os.path.join(yt_dir, "100 popular cars", "vehicles.json")
+        db_usa = os.path.join(yt_dir, "popular_cars_usa_canada", "vehicles.json")
 
         if os.path.exists(db_original):
             try:
@@ -407,6 +385,15 @@ def main():
                 with open(db_100, "r", encoding="utf-8") as f:
                     for v in json.load(f):
                         v["_source_db"] = "100_popular_cars"
+                        vehicles.append(v)
+            except Exception:
+                pass
+
+        if os.path.exists(db_usa):
+            try:
+                with open(db_usa, "r", encoding="utf-8") as f:
+                    for v in json.load(f):
+                        v["_source_db"] = "Popular_Cars_USA_Canada_Top_50"
                         vehicles.append(v)
             except Exception:
                 pass
@@ -472,7 +459,9 @@ def main():
         # Determine source excel origin
         source_excel = v.get("source_excel")
         if not source_excel:
-            if v.get("_source_db") == "100_popular_cars" or "100 popular cars" in str(v.get("output_video_path", "")):
+            if v.get("_source_db") == "Popular_Cars_USA_Canada_Top_50" or "popular_cars_usa_canada" in str(v.get("output_video_path", "")):
+                source_excel = "Popular_Cars_USA_Canada_Top_50"
+            elif v.get("_source_db") == "100_popular_cars" or "100 popular cars" in str(v.get("output_video_path", "")):
                 source_excel = "100_popular_cars_in_India"
             else:
                 source_excel = "master_vehicles_tracker"
